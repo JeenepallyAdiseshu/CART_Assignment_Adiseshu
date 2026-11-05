@@ -1,0 +1,1201 @@
+EmployeeID,Age,Department,JobRole,MonthlyIncome,YearsAtCompany,YearsInCurrentRole,JobSatisfaction,WorkLifeBalance,OverTime,DistanceFromHome,BusinessTravel,TrainingTimesLastYear,Education,PerformanceRating,Attrition
+EMP1001,38,Finance,Financial Analyst,3811,12,8,2,1,No,30,Travel_Rarely,3,5,3,No
+EMP1002,45,Research & Development,Laboratory Technician,6500,16,12,4,3,Yes,21,Travel_Rarely,4,4,4,No
+EMP1003,27,IT,IT Manager,4166,2,1,2,1,No,7,Travel_Rarely,2,5,3,No
+EMP1004,45,Human Resources,HR Manager,8713,21,8,4,1,No,8,Travel_Rarely,0,3,3,No
+EMP1005,57,Sales,Sales Representative,7502,18,7,4,3,Yes,3,Travel_Rarely,5,3,3,No
+EMP1006,26,IT,IT Manager,4928,6,1,4,1,No,24,Travel_Frequently,5,2,3,No
+EMP1007,34,Finance,Accountant,3799,7,2,1,4,No,5,Travel_Rarely,0,4,3,No
+EMP1008,48,Finance,Finance Manager,9633,24,11,2,2,No,9,Travel_Rarely,2,5,3,No
+EMP1009,45,Sales,Sales Representative,5051,10,0,3,2,Yes,11,Travel_Rarely,1,2,3,No
+EMP1010,47,Research & Development,Research Scientist,5375,21,1,4,3,No,19,Travel_Rarely,6,1,3,No
+EMP1011,43,Research & Development,Laboratory Technician,4977,5,2,1,3,Yes,19,Travel_Rarely,6,1,3,No
+EMP1012,48,IT,Software Engineer,5027,6,5,2,2,Yes,24,Travel_Rarely,4,4,3,Yes
+EMP1013,45,Human Resources,Recruiter,4498,14,9,1,4,No,9,Travel_Rarely,3,4,3,No
+EMP1014,23,IT,Systems Analyst,1815,3,2,4,4,Yes,12,Travel_Rarely,0,1,4,No
+EMP1015,51,Research & Development,Laboratory Technician,7205,20,8,4,1,Yes,12,Travel_Frequently,1,1,3,No
+EMP1016,38,Sales,Sales Representative,4018,6,0,1,3,No,2,Travel_Frequently,0,4,3,No
+EMP1017,23,Research & Development,Laboratory Technician,1800,5,1,1,2,Yes,23,Travel_Frequently,5,2,3,Yes
+EMP1018,37,Sales,Sales Executive,3665,6,0,2,4,No,17,Travel_Rarely,0,3,3,No
+EMP1019,38,IT,Software Engineer,6432,11,9,4,2,No,15,Travel_Rarely,4,2,3,No
+EMP1020,24,Human Resources,HR Manager,4169,6,5,2,2,No,30,Travel_Rarely,6,4,3,No
+EMP1021,60,Finance,Financial Analyst,7366,14,3,2,3,No,6,Travel_Rarely,2,4,3,No
+EMP1022,29,Research & Development,Research Director,7219,8,2,2,4,No,30,Travel_Rarely,4,1,3,No
+EMP1023,34,IT,Software Engineer,6176,15,4,3,1,Yes,21,Non-Travel,6,1,4,No
+EMP1024,38,IT,IT Manager,8435,20,13,2,3,No,7,Travel_Frequently,2,3,3,No
+EMP1025,54,Finance,Accountant,3935,13,6,1,2,Yes,21,Travel_Frequently,3,4,3,No
+EMP1026,50,Sales,Sales Representative,7380,11,9,4,3,No,23,Travel_Rarely,1,1,3,No
+EMP1027,51,Research & Development,Research Scientist,5798,5,2,2,3,No,11,Travel_Rarely,2,1,3,No
+EMP1028,30,Sales,Sales Representative,5560,6,4,2,4,Yes,11,Travel_Rarely,6,4,3,No
+EMP1029,54,Sales,Sales Manager,8791,24,7,3,4,Yes,26,Travel_Rarely,4,3,3,No
+EMP1030,54,Human Resources,HR Executive,4843,13,3,3,3,No,5,Travel_Frequently,1,1,3,No
+EMP1031,39,Finance,Financial Analyst,4721,7,7,1,3,Yes,1,Travel_Frequently,3,4,3,Yes
+EMP1032,42,IT,Systems Analyst,4177,2,2,1,4,Yes,20,Travel_Rarely,4,1,3,No
+EMP1033,22,Research & Development,Research Scientist,2598,1,1,1,1,Yes,28,Travel_Rarely,0,2,3,Yes
+EMP1034,51,Research & Development,Research Scientist,6307,6,6,4,3,No,16,Travel_Rarely,5,4,3,Yes
+EMP1035,59,Research & Development,Laboratory Technician,8321,26,3,3,4,No,5,Non-Travel,1,2,4,No
+EMP1036,39,Sales,Sales Representative,4558,11,1,4,1,No,17,Travel_Rarely,2,1,3,No
+EMP1037,42,Sales,Sales Representative,4610,3,2,3,4,No,8,Non-Travel,2,5,3,No
+EMP1038,40,Research & Development,Research Director,6289,1,0,2,3,Yes,25,Non-Travel,3,2,3,Yes
+EMP1039,24,Sales,Sales Manager,4154,5,2,3,2,Yes,19,Travel_Rarely,6,3,3,No
+EMP1040,45,Human Resources,HR Executive,7888,25,3,3,2,No,11,Travel_Rarely,1,5,4,No
+EMP1041,49,Research & Development,Laboratory Technician,7894,20,5,2,2,No,19,Travel_Rarely,1,5,4,Yes
+EMP1042,58,IT,Software Engineer,7336,3,1,4,4,No,21,Non-Travel,2,5,4,No
+EMP1043,58,Finance,Financial Analyst,5794,2,1,4,4,No,21,Travel_Frequently,6,2,3,No
+EMP1044,40,Research & Development,Research Scientist,2139,4,3,4,4,No,11,Travel_Rarely,6,5,3,No
+EMP1045,59,IT,Systems Analyst,7977,20,8,4,3,No,18,Non-Travel,3,1,4,No
+EMP1046,42,Finance,Finance Manager,7098,19,7,2,1,No,2,Non-Travel,4,2,3,No
+EMP1047,46,Research & Development,Research Director,9388,22,1,1,4,No,13,Travel_Rarely,6,1,3,No
+EMP1048,45,Research & Development,Laboratory Technician,3706,2,1,2,1,No,12,Travel_Rarely,5,3,3,No
+EMP1049,60,Human Resources,Recruiter,5946,4,0,3,1,No,17,Travel_Rarely,4,5,3,No
+EMP1050,50,Sales,Sales Executive,6380,24,4,4,1,No,29,Non-Travel,3,4,3,No
+EMP1051,25,Sales,Sales Manager,3632,7,3,2,4,No,29,Travel_Frequently,6,5,3,No
+EMP1052,23,Sales,Sales Manager,5350,4,0,2,2,Yes,15,Travel_Rarely,1,1,4,Yes
+EMP1053,37,Finance,Financial Analyst,3077,2,1,2,1,Yes,20,Travel_Rarely,2,4,4,Yes
+EMP1054,41,Human Resources,HR Manager,5615,1,0,4,1,No,4,Travel_Frequently,4,4,4,No
+EMP1055,47,Finance,Finance Manager,7044,1,1,1,2,No,15,Travel_Rarely,0,3,3,Yes
+EMP1056,40,Finance,Accountant,6153,15,12,2,3,No,21,Travel_Rarely,3,1,3,No
+EMP1057,41,Research & Development,Research Director,9515,20,0,1,4,No,21,Travel_Frequently,5,1,3,No
+EMP1058,57,Research & Development,Research Director,10248,17,9,4,3,Yes,29,Travel_Rarely,1,5,4,No
+EMP1059,34,Sales,Sales Representative,4147,4,3,2,3,No,14,Non-Travel,5,2,3,No
+EMP1060,40,Sales,Sales Executive,6796,17,5,1,4,No,28,Travel_Rarely,2,4,4,No
+EMP1061,43,Human Resources,HR Manager,6188,1,0,2,4,No,30,Non-Travel,6,5,3,No
+EMP1062,39,Research & Development,Research Scientist,3927,18,11,1,2,No,18,Travel_Frequently,4,3,3,No
+EMP1063,59,Research & Development,Laboratory Technician,7694,24,5,2,4,Yes,3,Travel_Rarely,1,2,3,No
+EMP1064,59,Finance,Accountant,8222,19,0,4,3,No,12,Travel_Rarely,5,3,3,No
+EMP1065,41,Human Resources,HR Manager,7351,21,5,3,4,No,23,Travel_Rarely,0,2,4,Yes
+EMP1066,39,Research & Development,Research Scientist,6348,12,3,4,1,No,18,Travel_Rarely,1,1,3,No
+EMP1067,44,Research & Development,Research Scientist,5308,12,4,3,1,No,29,Travel_Rarely,6,5,3,Yes
+EMP1068,28,Research & Development,Research Director,5687,3,0,4,4,Yes,25,Non-Travel,6,2,3,No
+EMP1069,38,Sales,Sales Executive,6612,19,2,2,3,No,2,Travel_Frequently,0,4,4,Yes
+EMP1070,29,Research & Development,Research Scientist,3315,8,8,4,1,No,26,Travel_Rarely,2,4,3,No
+EMP1071,26,Sales,Sales Manager,4349,1,0,1,4,No,11,Travel_Rarely,0,3,3,No
+EMP1072,24,Research & Development,Research Scientist,3584,6,4,2,1,No,25,Travel_Rarely,1,3,3,No
+EMP1073,44,IT,Systems Analyst,3175,1,1,3,3,Yes,16,Travel_Rarely,6,1,3,Yes
+EMP1074,21,Sales,Sales Executive,1800,2,1,2,1,Yes,14,Travel_Rarely,1,3,3,No
+EMP1075,46,Sales,Sales Executive,5496,5,5,2,1,Yes,3,Travel_Rarely,4,4,4,No
+EMP1076,38,Research & Development,Laboratory Technician,4969,13,0,1,4,Yes,4,Travel_Rarely,5,1,3,No
+EMP1077,35,Research & Development,Laboratory Technician,5256,7,2,1,4,No,18,Non-Travel,6,2,3,No
+EMP1078,51,Human Resources,HR Executive,4497,11,2,3,1,No,18,Travel_Frequently,2,4,3,No
+EMP1079,42,Research & Development,Research Scientist,4114,16,8,4,1,Yes,17,Travel_Rarely,4,5,3,No
+EMP1080,50,Finance,Financial Analyst,7948,20,9,1,3,No,5,Travel_Rarely,3,2,3,No
+EMP1081,49,Human Resources,HR Manager,8189,10,9,2,1,No,16,Travel_Rarely,0,5,4,No
+EMP1082,22,Research & Development,Research Director,4981,4,1,4,3,Yes,2,Non-Travel,1,1,3,Yes
+EMP1083,29,Finance,Financial Analyst,3895,5,1,4,4,Yes,5,Non-Travel,5,3,3,Yes
+EMP1084,43,Sales,Sales Executive,5021,4,4,1,4,No,15,Non-Travel,4,5,3,Yes
+EMP1085,60,Sales,Sales Representative,4773,0,0,3,1,Yes,19,Travel_Frequently,3,3,3,Yes
+EMP1086,27,Sales,Sales Representative,1964,2,2,1,1,No,20,Travel_Rarely,5,3,3,Yes
+EMP1087,25,Finance,Financial Analyst,3326,5,4,1,3,Yes,30,Travel_Rarely,4,1,4,No
+EMP1088,58,Research & Development,Research Scientist,7739,14,6,1,1,No,26,Travel_Frequently,2,3,3,No
+EMP1089,59,Sales,Sales Representative,5396,9,4,3,3,No,12,Travel_Rarely,2,3,3,No
+EMP1090,27,Research & Development,Laboratory Technician,2652,4,1,1,2,Yes,24,Travel_Rarely,6,5,4,No
+EMP1091,37,Sales,Sales Representative,4940,16,11,2,3,Yes,3,Travel_Rarely,6,2,3,No
+EMP1092,46,Human Resources,HR Executive,6276,15,3,1,1,No,26,Travel_Rarely,0,2,3,Yes
+EMP1093,28,Research & Development,Research Director,5257,0,0,2,4,No,12,Travel_Rarely,5,4,4,No
+EMP1094,34,Research & Development,Laboratory Technician,2544,0,0,3,3,No,23,Travel_Frequently,0,5,4,No
+EMP1095,36,Research & Development,Laboratory Technician,5384,9,9,2,1,Yes,30,Travel_Rarely,6,2,3,No
+EMP1096,46,Human Resources,HR Executive,4840,10,1,2,2,Yes,22,Travel_Rarely,4,4,3,No
+EMP1097,33,Research & Development,Research Director,6972,13,6,3,1,No,28,Travel_Rarely,4,5,4,No
+EMP1098,37,Sales,Sales Manager,4953,11,3,3,2,No,1,Travel_Frequently,4,4,3,No
+EMP1099,32,Sales,Sales Executive,3468,11,7,1,2,Yes,6,Travel_Rarely,4,3,3,No
+EMP1100,51,IT,IT Manager,8639,15,10,4,1,No,19,Travel_Frequently,1,2,4,No
+EMP1101,27,IT,IT Manager,4804,3,3,4,3,No,17,Travel_Rarely,5,2,3,Yes
+EMP1102,30,Human Resources,HR Executive,4115,8,7,3,3,Yes,4,Travel_Rarely,3,1,3,Yes
+EMP1103,30,Sales,Sales Manager,5871,8,2,3,1,Yes,22,Travel_Frequently,3,1,3,Yes
+EMP1104,57,IT,Software Engineer,9984,19,3,3,1,Yes,2,Travel_Rarely,2,3,3,No
+EMP1105,58,Finance,Financial Analyst,5617,5,5,2,1,No,30,Travel_Rarely,0,1,3,No
+EMP1106,41,Finance,Financial Analyst,4368,15,7,2,3,No,5,Travel_Frequently,3,1,3,Yes
+EMP1107,27,Research & Development,Laboratory Technician,1800,2,0,2,2,No,14,Travel_Rarely,2,4,3,No
+EMP1108,51,Sales,Sales Representative,6432,21,12,1,1,Yes,25,Travel_Rarely,4,1,3,No
+EMP1109,40,Sales,Sales Representative,4798,18,9,4,1,No,16,Travel_Rarely,2,1,3,No
+EMP1110,54,IT,Software Engineer,7559,16,0,2,4,No,23,Travel_Rarely,6,3,3,No
+EMP1111,35,Research & Development,Research Scientist,6212,17,11,2,2,No,22,Travel_Rarely,4,5,3,No
+EMP1112,60,Sales,Sales Manager,10301,14,9,4,3,No,29,Travel_Rarely,3,4,3,No
+EMP1113,53,Research & Development,Research Director,8094,0,0,3,2,Yes,14,Travel_Rarely,4,1,3,No
+EMP1114,29,Research & Development,Research Director,8092,7,4,3,1,No,30,Travel_Frequently,4,1,3,No
+EMP1115,50,Sales,Sales Executive,6534,20,12,1,2,No,16,Non-Travel,4,4,3,No
+EMP1116,32,IT,IT Manager,3291,1,0,2,1,No,27,Travel_Rarely,4,4,3,No
+EMP1117,34,Finance,Finance Manager,5898,1,0,3,3,Yes,22,Travel_Rarely,6,2,3,Yes
+EMP1118,31,Finance,Accountant,1800,3,2,2,2,No,4,Travel_Frequently,2,5,3,No
+EMP1119,48,Research & Development,Research Scientist,6215,22,2,1,2,No,20,Travel_Rarely,3,5,4,No
+EMP1120,31,Human Resources,Recruiter,4023,7,1,4,1,No,27,Travel_Frequently,1,4,3,No
+EMP1121,46,Human Resources,HR Manager,8873,26,12,2,4,No,4,Travel_Rarely,3,4,3,No
+EMP1122,44,Human Resources,HR Executive,6458,23,3,3,1,No,26,Travel_Rarely,6,4,4,No
+EMP1123,51,Sales,Sales Executive,5197,14,7,2,3,Yes,4,Travel_Frequently,4,1,4,Yes
+EMP1124,60,Research & Development,Laboratory Technician,7565,18,4,3,4,No,27,Travel_Frequently,1,4,3,No
+EMP1125,21,Sales,Sales Executive,2818,1,0,4,3,No,24,Travel_Rarely,6,5,3,No
+EMP1126,60,Research & Development,Research Scientist,5753,2,1,4,3,No,5,Travel_Rarely,5,2,3,No
+EMP1127,25,Research & Development,Laboratory Technician,1800,3,3,1,4,Yes,22,Travel_Rarely,3,1,3,No
+EMP1128,42,Sales,Sales Manager,6082,14,6,3,1,Yes,4,Non-Travel,1,2,4,No
+EMP1129,34,Sales,Sales Executive,2651,3,0,4,4,No,18,Travel_Frequently,2,2,3,No
+EMP1130,46,Human Resources,HR Manager,6903,5,1,3,3,Yes,28,Travel_Frequently,5,5,4,No
+EMP1131,49,Sales,Sales Manager,6569,0,0,1,2,No,7,Travel_Rarely,4,3,3,Yes
+EMP1132,55,IT,IT Manager,8295,19,2,1,2,No,6,Travel_Rarely,1,4,3,No
+EMP1133,37,Human Resources,Recruiter,3285,17,13,1,3,Yes,13,Travel_Rarely,1,5,3,Yes
+EMP1134,58,Research & Development,Research Scientist,8223,22,4,1,4,No,12,Travel_Rarely,6,4,4,No
+EMP1135,33,Human Resources,Recruiter,2822,6,2,4,3,No,2,Travel_Rarely,3,4,3,No
+EMP1136,29,Sales,Sales Manager,5785,7,0,4,1,No,14,Travel_Rarely,4,5,3,Yes
+EMP1137,36,IT,Software Engineer,5315,18,6,3,2,No,8,Travel_Rarely,2,4,3,No
+EMP1138,42,Research & Development,Laboratory Technician,4516,14,13,3,3,Yes,4,Travel_Rarely,0,2,3,No
+EMP1139,47,Finance,Accountant,5213,7,3,4,2,Yes,9,Travel_Frequently,2,4,3,No
+EMP1140,54,Sales,Sales Representative,8092,9,6,2,4,No,1,Travel_Rarely,4,2,3,No
+EMP1141,29,Research & Development,Research Scientist,4154,8,1,2,3,No,28,Travel_Rarely,2,2,3,Yes
+EMP1142,33,Research & Development,Research Director,6668,7,1,3,1,No,30,Travel_Rarely,4,4,3,Yes
+EMP1143,58,IT,IT Manager,9968,22,10,2,3,No,12,Travel_Rarely,3,2,3,No
+EMP1144,38,Research & Development,Laboratory Technician,3909,18,0,1,1,Yes,27,Travel_Rarely,2,1,3,Yes
+EMP1145,30,Research & Development,Research Director,4445,0,0,3,2,No,14,Travel_Rarely,1,5,4,No
+EMP1146,60,Sales,Sales Representative,5430,19,6,4,2,Yes,28,Travel_Rarely,1,3,4,No
+EMP1147,38,Research & Development,Research Director,8577,7,2,1,4,Yes,6,Travel_Rarely,1,4,3,Yes
+EMP1148,60,Research & Development,Laboratory Technician,8490,14,0,1,4,No,9,Travel_Frequently,5,5,3,No
+EMP1149,57,Research & Development,Laboratory Technician,6379,7,4,2,2,No,23,Travel_Rarely,2,4,3,No
+EMP1150,57,Sales,Sales Executive,6377,9,9,4,3,No,7,Travel_Rarely,5,4,4,No
+EMP1151,44,IT,Systems Analyst,3909,8,0,3,3,No,25,Travel_Rarely,2,4,3,Yes
+EMP1152,52,IT,Software Engineer,5363,1,1,3,3,No,13,Travel_Frequently,2,2,3,No
+EMP1153,59,Sales,Sales Executive,9438,21,8,3,3,No,13,Travel_Rarely,6,5,4,No
+EMP1154,31,Research & Development,Research Scientist,3098,2,2,2,4,No,14,Travel_Frequently,6,4,3,No
+EMP1155,22,Sales,Sales Manager,3302,1,0,3,4,No,24,Travel_Rarely,2,1,3,No
+EMP1156,33,Human Resources,HR Executive,1800,3,3,1,4,No,1,Travel_Rarely,1,1,3,No
+EMP1157,46,Research & Development,Research Director,8677,4,0,1,1,No,23,Travel_Rarely,5,5,3,No
+EMP1158,42,Human Resources,Recruiter,4767,9,9,4,2,Yes,24,Travel_Rarely,0,5,3,No
+EMP1159,24,Finance,Financial Analyst,1800,6,4,3,2,Yes,25,Travel_Rarely,3,5,4,No
+EMP1160,43,Finance,Accountant,5818,24,5,1,3,No,30,Travel_Rarely,4,1,3,No
+EMP1161,27,Sales,Sales Representative,1800,3,0,2,3,No,24,Travel_Rarely,4,5,3,No
+EMP1162,41,IT,Systems Analyst,5361,12,7,1,3,No,16,Travel_Rarely,0,5,4,No
+EMP1163,44,Sales,Sales Manager,8962,26,1,3,2,Yes,14,Non-Travel,0,4,4,No
+EMP1164,46,Sales,Sales Representative,4412,6,4,4,2,No,12,Travel_Rarely,1,3,3,No
+EMP1165,37,Research & Development,Laboratory Technician,6089,18,11,2,2,No,25,Travel_Rarely,0,3,3,No
+EMP1166,37,Research & Development,Laboratory Technician,3621,2,0,2,4,Yes,12,Travel_Rarely,3,3,3,Yes
+EMP1167,48,IT,IT Manager,7811,6,1,1,2,No,18,Travel_Frequently,6,1,3,No
+EMP1168,50,Finance,Accountant,5269,9,2,2,1,No,3,Travel_Rarely,2,3,3,No
+EMP1169,53,Research & Development,Laboratory Technician,7696,1,0,2,4,No,10,Travel_Frequently,3,2,3,No
+EMP1170,34,IT,IT Manager,5822,13,1,1,1,Yes,8,Travel_Rarely,1,2,4,No
+EMP1171,37,Research & Development,Research Director,7262,17,3,2,3,No,14,Non-Travel,0,1,3,No
+EMP1172,34,Research & Development,Research Director,5601,6,4,4,4,Yes,16,Travel_Frequently,4,3,3,No
+EMP1173,42,Sales,Sales Manager,7705,20,4,4,2,No,22,Non-Travel,1,1,3,No
+EMP1174,26,IT,Systems Analyst,1817,6,5,2,2,No,13,Travel_Rarely,3,5,4,No
+EMP1175,38,Sales,Sales Manager,7320,16,12,4,2,No,5,Travel_Rarely,4,5,3,No
+EMP1176,28,Sales,Sales Executive,1800,8,6,1,1,Yes,17,Travel_Rarely,5,5,3,No
+EMP1177,42,Research & Development,Research Scientist,5551,14,8,4,1,No,2,Travel_Rarely,1,2,3,No
+EMP1178,55,IT,Systems Analyst,4444,2,0,2,1,Yes,26,Travel_Rarely,4,1,3,No
+EMP1179,60,IT,IT Manager,9722,24,13,3,2,No,24,Non-Travel,6,3,3,No
+EMP1180,38,Finance,Accountant,5339,12,2,1,3,No,7,Non-Travel,3,4,4,No
+EMP1181,23,IT,Systems Analyst,5039,5,2,4,1,No,8,Non-Travel,0,1,3,No
+EMP1182,30,IT,Systems Analyst,3465,12,5,2,4,No,1,Non-Travel,1,5,3,No
+EMP1183,25,Research & Development,Research Scientist,2160,1,1,4,3,No,11,Travel_Rarely,5,3,3,No
+EMP1184,51,Research & Development,Laboratory Technician,5149,10,6,1,1,No,2,Travel_Rarely,5,5,3,No
+EMP1185,60,Finance,Accountant,5297,5,4,3,4,No,29,Travel_Rarely,2,1,3,Yes
+EMP1186,43,Human Resources,HR Manager,5162,1,1,1,1,No,5,Travel_Rarely,1,3,3,No
+EMP1187,28,Research & Development,Laboratory Technician,4357,10,4,4,3,Yes,20,Non-Travel,2,3,3,No
+EMP1188,21,Sales,Sales Executive,1800,3,3,2,2,No,18,Travel_Rarely,1,1,3,No
+EMP1189,60,Finance,Finance Manager,12204,25,2,3,3,Yes,8,Travel_Rarely,5,4,3,No
+EMP1190,33,Sales,Sales Representative,4924,14,13,4,4,No,25,Travel_Frequently,5,5,3,No
+EMP1191,25,IT,Software Engineer,2546,5,1,3,4,Yes,4,Travel_Rarely,0,3,3,No
+EMP1192,28,Sales,Sales Representative,2710,5,5,1,2,Yes,27,Non-Travel,5,2,3,Yes
+EMP1193,31,Sales,Sales Representative,3523,13,5,1,3,No,23,Travel_Rarely,5,4,3,No
+EMP1194,47,IT,Software Engineer,7300,14,14,1,4,Yes,20,Travel_Frequently,4,2,3,No
+EMP1195,56,Sales,Sales Executive,5605,17,1,4,3,No,27,Travel_Rarely,6,2,3,No
+EMP1196,32,Sales,Sales Executive,1983,3,1,4,4,No,13,Travel_Rarely,0,4,4,No
+EMP1197,48,Human Resources,HR Manager,7933,20,13,2,2,Yes,9,Non-Travel,4,3,3,No
+EMP1198,23,IT,IT Manager,4865,4,0,4,2,Yes,5,Travel_Rarely,0,2,3,Yes
+EMP1199,21,Sales,Sales Manager,4940,2,0,1,3,No,28,Travel_Frequently,6,3,4,Yes
+EMP1200,23,Research & Development,Laboratory Technician,3462,2,0,3,4,Yes,13,Travel_Rarely,3,5,3,No
+EMP1201,57,Finance,Finance Manager,8072,5,1,2,4,Yes,25,Travel_Rarely,0,3,3,Yes
+EMP1202,44,IT,Software Engineer,4610,0,0,1,3,Yes,10,Travel_Rarely,5,1,3,No
+EMP1203,53,Research & Development,Research Director,10195,16,5,2,3,No,29,Travel_Frequently,5,5,4,No
+EMP1204,21,Sales,Sales Representative,1800,2,1,2,3,Yes,27,Travel_Rarely,3,4,3,Yes
+EMP1205,21,Sales,Sales Manager,2285,3,1,2,2,Yes,10,Travel_Frequently,2,2,3,Yes
+EMP1206,54,Sales,Sales Manager,10003,25,2,1,2,No,15,Travel_Rarely,0,5,3,No
+EMP1207,25,Sales,Sales Representative,1800,3,0,2,2,No,24,Travel_Rarely,6,5,3,No
+EMP1208,27,Human Resources,HR Executive,3231,8,8,1,4,Yes,7,Travel_Rarely,1,5,4,No
+EMP1209,41,Sales,Sales Representative,5763,17,14,4,3,Yes,1,Travel_Rarely,5,2,3,No
+EMP1210,45,Research & Development,Research Director,7908,7,1,2,4,No,9,Travel_Frequently,4,5,3,No
+EMP1211,30,Human Resources,Recruiter,4649,10,2,1,1,No,18,Travel_Rarely,4,5,4,Yes
+EMP1212,38,Human Resources,Recruiter,4279,1,0,3,4,No,5,Travel_Rarely,4,5,3,No
+EMP1213,47,Sales,Sales Executive,6286,16,14,4,3,No,11,Travel_Rarely,6,3,3,No
+EMP1214,38,Finance,Accountant,5202,19,10,2,4,Yes,28,Travel_Rarely,0,2,3,No
+EMP1215,36,Finance,Financial Analyst,5102,12,9,4,2,No,3,Travel_Rarely,6,2,3,No
+EMP1216,23,Finance,Finance Manager,3828,5,1,3,2,No,2,Travel_Rarely,0,5,3,No
+EMP1217,39,Sales,Sales Manager,5248,1,1,3,1,No,13,Travel_Rarely,6,3,3,No
+EMP1218,53,Sales,Sales Executive,8806,14,0,2,4,Yes,1,Travel_Rarely,1,5,3,Yes
+EMP1219,46,IT,Systems Analyst,7154,21,10,1,3,Yes,1,Travel_Rarely,5,3,3,Yes
+EMP1220,56,Research & Development,Research Director,10285,17,8,2,4,Yes,6,Non-Travel,0,3,3,Yes
+EMP1221,26,Research & Development,Research Director,5245,7,2,4,1,Yes,4,Travel_Rarely,3,1,4,No
+EMP1222,21,Research & Development,Laboratory Technician,2833,1,1,4,1,No,25,Travel_Rarely,3,3,3,Yes
+EMP1223,42,Human Resources,HR Executive,6434,17,9,4,4,No,4,Travel_Rarely,6,3,3,No
+EMP1224,28,IT,IT Manager,5416,4,2,4,1,Yes,16,Travel_Rarely,0,1,3,No
+EMP1225,44,Research & Development,Research Director,9623,23,2,2,3,No,22,Travel_Rarely,0,1,3,No
+EMP1226,57,IT,Systems Analyst,6896,3,0,2,2,Yes,19,Travel_Frequently,4,3,3,Yes
+EMP1227,34,Sales,Sales Manager,6440,4,4,4,4,Yes,20,Travel_Rarely,0,2,3,Yes
+EMP1228,42,Research & Development,Research Scientist,4280,2,0,3,4,No,11,Travel_Rarely,5,4,3,No
+EMP1229,48,Human Resources,HR Manager,8132,18,4,2,4,No,27,Travel_Rarely,0,3,4,No
+EMP1230,27,Sales,Sales Executive,3405,2,2,2,2,No,3,Travel_Rarely,6,3,3,No
+EMP1231,56,Sales,Sales Manager,7031,8,2,4,3,No,4,Travel_Rarely,3,1,3,No
+EMP1232,29,Research & Development,Research Director,5864,10,4,1,3,Yes,26,Travel_Rarely,6,3,3,No
+EMP1233,53,IT,IT Manager,7627,9,7,1,4,Yes,3,Travel_Rarely,0,3,3,No
+EMP1234,47,Human Resources,HR Manager,4848,3,2,3,1,No,6,Travel_Rarely,1,3,3,No
+EMP1235,26,IT,Software Engineer,3720,0,0,1,4,No,6,Travel_Rarely,3,2,3,No
+EMP1236,49,Finance,Financial Analyst,4683,6,4,1,2,No,1,Travel_Rarely,0,1,3,No
+EMP1237,28,Research & Development,Laboratory Technician,3191,10,0,4,1,Yes,4,Travel_Rarely,0,5,3,No
+EMP1238,44,Finance,Finance Manager,7203,14,6,2,3,No,18,Travel_Rarely,2,5,3,No
+EMP1239,59,Sales,Sales Executive,8435,26,7,3,4,No,20,Travel_Rarely,5,5,3,No
+EMP1240,59,Sales,Sales Manager,7476,5,3,2,1,Yes,3,Travel_Rarely,4,2,4,No
+EMP1241,55,IT,Software Engineer,6704,9,1,1,1,Yes,29,Travel_Frequently,0,4,3,No
+EMP1242,40,Finance,Accountant,3896,3,0,1,4,No,3,Travel_Rarely,0,1,3,No
+EMP1243,43,Sales,Sales Executive,4638,10,8,4,4,No,21,Travel_Rarely,4,5,3,No
+EMP1244,33,Research & Development,Laboratory Technician,3279,9,6,1,1,No,25,Travel_Frequently,2,1,3,No
+EMP1245,57,Human Resources,HR Manager,10408,21,12,3,4,No,16,Travel_Rarely,5,3,3,No
+EMP1246,40,IT,Software Engineer,3331,8,2,2,4,No,15,Travel_Rarely,2,5,3,No
+EMP1247,51,Human Resources,HR Manager,8565,20,14,2,4,Yes,4,Travel_Rarely,2,4,3,No
+EMP1248,35,Research & Development,Research Director,6773,11,3,4,1,No,8,Travel_Rarely,1,5,3,No
+EMP1249,50,Research & Development,Research Director,8537,7,5,3,3,Yes,26,Travel_Rarely,1,3,3,No
+EMP1250,29,Research & Development,Research Scientist,2401,10,1,3,4,No,11,Non-Travel,4,1,3,No
+EMP1251,50,Human Resources,Recruiter,5370,11,11,2,4,Yes,2,Travel_Rarely,3,1,3,Yes
+EMP1252,22,IT,IT Manager,3603,0,0,2,3,Yes,22,Travel_Rarely,4,1,3,Yes
+EMP1253,25,Research & Development,Research Director,6748,7,2,3,1,No,21,Travel_Rarely,0,1,3,No
+EMP1254,35,Sales,Sales Representative,5269,16,12,1,1,No,2,Travel_Rarely,3,3,3,No
+EMP1255,40,Sales,Sales Manager,4455,1,0,1,2,No,2,Travel_Rarely,3,1,3,No
+EMP1256,49,Finance,Accountant,6781,24,11,3,1,No,4,Travel_Frequently,6,1,3,No
+EMP1257,35,Finance,Financial Analyst,6282,17,6,3,1,No,2,Travel_Rarely,2,3,4,No
+EMP1258,21,Sales,Sales Executive,1800,3,0,1,1,No,19,Travel_Frequently,0,4,3,Yes
+EMP1259,34,Sales,Sales Manager,5224,4,0,4,4,No,4,Travel_Rarely,4,4,3,No
+EMP1260,38,Human Resources,HR Executive,4902,13,9,3,3,No,19,Non-Travel,1,1,3,No
+EMP1261,42,Sales,Sales Representative,4943,13,2,1,3,No,6,Travel_Rarely,6,5,3,No
+EMP1262,46,IT,IT Manager,10241,16,4,4,4,No,30,Travel_Rarely,2,3,3,No
+EMP1263,30,Research & Development,Research Scientist,3204,8,4,4,2,No,22,Non-Travel,5,2,3,No
+EMP1264,45,Sales,Sales Representative,6440,17,3,2,2,No,12,Travel_Frequently,4,2,4,No
+EMP1265,46,IT,Software Engineer,5680,13,1,2,1,No,13,Travel_Rarely,3,5,3,No
+EMP1266,52,Sales,Sales Representative,7290,18,9,2,2,Yes,2,Travel_Rarely,4,3,4,No
+EMP1267,41,Research & Development,Research Scientist,5864,12,8,3,1,Yes,2,Travel_Rarely,1,2,3,No
+EMP1268,53,Sales,Sales Manager,6111,0,0,1,3,No,17,Travel_Rarely,0,3,3,Yes
+EMP1269,29,Sales,Sales Executive,2511,0,0,2,4,Yes,1,Travel_Rarely,5,1,3,No
+EMP1270,49,Sales,Sales Manager,8329,25,10,1,3,No,20,Travel_Frequently,6,1,3,No
+EMP1271,22,Sales,Sales Manager,3125,4,4,1,2,No,12,Travel_Rarely,6,2,3,No
+EMP1272,25,Sales,Sales Manager,5373,4,0,2,3,Yes,5,Travel_Rarely,2,2,3,No
+EMP1273,55,Sales,Sales Manager,6791,4,2,3,4,No,17,Non-Travel,2,2,3,No
+EMP1274,40,Human Resources,HR Executive,3388,17,3,4,2,Yes,17,Travel_Rarely,2,1,3,No
+EMP1275,45,Human Resources,Recruiter,6014,3,3,1,2,No,23,Travel_Frequently,4,4,3,No
+EMP1276,45,Research & Development,Laboratory Technician,4508,10,5,1,3,No,6,Travel_Frequently,4,1,3,No
+EMP1277,48,Research & Development,Research Director,7863,8,0,2,1,Yes,17,Travel_Rarely,5,2,3,No
+EMP1278,30,Research & Development,Research Director,6932,0,0,3,4,Yes,26,Travel_Frequently,6,5,4,No
+EMP1279,28,IT,Systems Analyst,3657,8,6,4,2,Yes,9,Travel_Rarely,2,1,3,No
+EMP1280,22,IT,Systems Analyst,2378,2,0,3,2,No,26,Travel_Rarely,4,2,3,No
+EMP1281,55,Sales,Sales Executive,4845,8,2,3,3,Yes,22,Travel_Rarely,3,3,3,No
+EMP1282,29,Sales,Sales Executive,1800,6,5,1,1,No,13,Non-Travel,6,2,3,No
+EMP1283,44,Sales,Sales Representative,3835,0,0,1,1,Yes,27,Travel_Rarely,2,2,3,No
+EMP1284,39,Sales,Sales Manager,6672,9,5,1,1,No,30,Travel_Rarely,1,1,3,Yes
+EMP1285,27,Research & Development,Laboratory Technician,3220,5,4,3,2,Yes,8,Travel_Rarely,2,3,3,Yes
+EMP1286,37,Research & Development,Laboratory Technician,3577,6,3,2,3,No,30,Travel_Frequently,4,4,3,No
+EMP1287,24,Sales,Sales Executive,2678,5,5,1,1,Yes,1,Travel_Frequently,6,3,3,No
+EMP1288,28,Research & Development,Laboratory Technician,1800,2,1,3,2,No,4,Travel_Rarely,5,5,4,No
+EMP1289,26,Research & Development,Laboratory Technician,2804,1,0,4,4,No,2,Travel_Rarely,0,4,4,No
+EMP1290,53,Sales,Sales Manager,8395,14,1,2,4,Yes,12,Travel_Rarely,3,4,3,No
+EMP1291,43,IT,IT Manager,10111,23,11,4,1,No,29,Travel_Rarely,1,3,3,No
+EMP1292,58,Sales,Sales Representative,6472,10,0,3,3,Yes,19,Travel_Rarely,2,4,3,No
+EMP1293,38,IT,IT Manager,4367,0,0,3,1,No,19,Travel_Rarely,6,3,3,No
+EMP1294,29,Sales,Sales Representative,3779,11,4,4,3,No,3,Travel_Rarely,6,5,3,No
+EMP1295,45,IT,IT Manager,6850,11,0,1,4,No,16,Travel_Rarely,1,3,3,No
+EMP1296,58,IT,Systems Analyst,6566,4,1,4,4,Yes,12,Non-Travel,0,3,3,Yes
+EMP1297,42,IT,Software Engineer,6244,15,8,4,1,Yes,15,Travel_Rarely,4,1,3,No
+EMP1298,21,Finance,Accountant,1800,1,0,4,2,Yes,8,Travel_Frequently,2,5,3,No
+EMP1299,33,Finance,Financial Analyst,3593,15,6,3,4,Yes,7,Non-Travel,3,3,4,No
+EMP1300,57,Human Resources,HR Executive,6262,7,7,4,4,Yes,29,Travel_Rarely,6,4,4,Yes
+EMP1301,41,Finance,Finance Manager,8240,13,0,4,2,No,17,Travel_Rarely,6,4,3,No
+EMP1302,59,Sales,Sales Manager,8891,14,0,4,1,No,13,Travel_Rarely,6,1,3,No
+EMP1303,41,Research & Development,Research Scientist,5007,5,1,4,2,No,3,Travel_Rarely,5,4,3,No
+EMP1304,21,Research & Development,Research Director,5627,1,1,4,3,No,23,Non-Travel,6,3,3,No
+EMP1305,55,IT,Software Engineer,6200,2,1,2,2,Yes,15,Travel_Rarely,5,2,3,No
+EMP1306,51,Research & Development,Research Scientist,5872,17,9,3,4,No,12,Travel_Rarely,6,2,4,No
+EMP1307,49,Research & Development,Research Director,9736,20,0,2,4,Yes,21,Travel_Rarely,3,4,3,No
+EMP1308,59,Human Resources,HR Executive,9371,25,11,4,4,No,4,Travel_Rarely,0,1,3,No
+EMP1309,28,Sales,Sales Manager,5087,3,0,4,1,No,16,Travel_Rarely,5,4,4,No
+EMP1310,57,Sales,Sales Manager,8498,7,5,4,4,No,26,Travel_Rarely,6,5,3,No
+EMP1311,30,Research & Development,Research Scientist,3044,7,1,3,4,No,14,Travel_Rarely,2,1,3,No
+EMP1312,59,Research & Development,Research Scientist,7298,18,12,2,2,Yes,1,Travel_Rarely,2,1,3,No
+EMP1313,28,Sales,Sales Manager,5308,10,3,1,3,No,7,Non-Travel,4,1,3,No
+EMP1314,43,Research & Development,Laboratory Technician,3844,0,0,3,4,Yes,2,Travel_Rarely,4,4,3,Yes
+EMP1315,52,Research & Development,Laboratory Technician,6486,6,1,3,4,No,16,Travel_Rarely,4,5,3,No
+EMP1316,24,Research & Development,Laboratory Technician,1800,1,0,3,3,No,11,Non-Travel,2,5,3,No
+EMP1317,23,Research & Development,Laboratory Technician,2132,1,0,3,1,Yes,4,Non-Travel,5,1,3,Yes
+EMP1318,54,Human Resources,Recruiter,6243,12,2,4,3,No,21,Travel_Rarely,5,3,3,No
+EMP1319,23,Research & Development,Laboratory Technician,1800,5,3,1,3,No,6,Travel_Rarely,6,1,3,No
+EMP1320,45,IT,Software Engineer,5385,0,0,2,1,Yes,11,Travel_Frequently,4,2,4,No
+EMP1321,58,IT,Systems Analyst,7593,22,4,3,4,No,30,Travel_Frequently,0,2,3,Yes
+EMP1322,45,Research & Development,Research Director,8399,16,5,4,1,No,2,Travel_Frequently,5,4,3,No
+EMP1323,40,Research & Development,Research Scientist,6879,14,12,4,4,No,8,Travel_Rarely,0,5,3,No
+EMP1324,37,Research & Development,Laboratory Technician,5724,13,1,4,3,No,10,Travel_Rarely,1,5,3,No
+EMP1325,46,IT,IT Manager,6837,3,1,4,2,No,16,Travel_Rarely,1,1,3,No
+EMP1326,43,Human Resources,HR Manager,8218,19,2,4,1,Yes,8,Travel_Rarely,1,2,4,No
+EMP1327,41,Finance,Financial Analyst,4527,5,2,3,1,No,30,Travel_Rarely,5,2,3,No
+EMP1328,27,Research & Development,Research Scientist,4744,5,1,1,3,No,1,Travel_Rarely,3,2,3,No
+EMP1329,47,Human Resources,HR Manager,8862,18,0,3,2,No,29,Non-Travel,1,2,3,No
+EMP1330,50,Research & Development,Laboratory Technician,5720,16,1,3,4,No,17,Travel_Rarely,0,4,3,No
+EMP1331,49,Finance,Finance Manager,5920,8,7,1,1,No,2,Travel_Rarely,1,4,3,No
+EMP1332,24,Sales,Sales Representative,2825,2,0,4,4,No,4,Travel_Rarely,4,5,3,No
+EMP1333,49,Human Resources,Recruiter,5790,12,10,3,4,No,4,Travel_Frequently,5,4,3,No
+EMP1334,50,IT,Software Engineer,4084,1,1,4,1,No,9,Non-Travel,2,2,3,Yes
+EMP1335,28,Sales,Sales Representative,3656,7,3,1,3,No,10,Travel_Rarely,0,1,3,Yes
+EMP1336,54,Human Resources,HR Executive,4923,2,0,4,4,No,20,Travel_Frequently,3,2,3,No
+EMP1337,41,Sales,Sales Representative,5443,11,9,2,2,No,10,Travel_Rarely,5,4,3,No
+EMP1338,39,Finance,Financial Analyst,5918,14,14,3,1,Yes,22,Travel_Rarely,0,5,3,No
+EMP1339,49,Sales,Sales Representative,4143,2,0,3,4,Yes,9,Travel_Rarely,5,2,3,Yes
+EMP1340,41,IT,Systems Analyst,7315,23,14,3,2,No,8,Travel_Rarely,1,1,3,No
+EMP1341,42,Sales,Sales Executive,4382,9,9,4,1,No,9,Travel_Rarely,1,1,3,No
+EMP1342,33,IT,Software Engineer,3250,0,0,1,4,No,10,Travel_Frequently,4,1,3,No
+EMP1343,58,Finance,Accountant,6791,17,2,3,3,Yes,26,Travel_Rarely,0,4,3,Yes
+EMP1344,59,Human Resources,Recruiter,8153,15,0,4,1,Yes,8,Travel_Frequently,2,3,3,No
+EMP1345,26,Finance,Financial Analyst,2997,5,4,1,2,No,9,Travel_Frequently,0,4,3,No
+EMP1346,50,Finance,Accountant,8090,20,1,2,1,No,29,Travel_Rarely,1,1,3,No
+EMP1347,21,IT,Software Engineer,4220,1,1,2,4,Yes,20,Travel_Rarely,5,3,3,No
+EMP1348,35,Sales,Sales Manager,5875,14,0,3,1,No,6,Travel_Rarely,1,1,3,No
+EMP1349,59,Human Resources,HR Manager,5616,9,6,4,4,No,27,Travel_Rarely,0,2,3,No
+EMP1350,27,Sales,Sales Manager,5685,5,1,4,3,No,6,Travel_Rarely,1,4,3,No
+EMP1351,36,Human Resources,HR Executive,3262,3,0,4,3,Yes,5,Travel_Rarely,0,2,3,No
+EMP1352,29,Sales,Sales Executive,2585,7,0,2,4,No,14,Travel_Frequently,4,4,3,No
+EMP1353,50,Research & Development,Laboratory Technician,4830,7,1,3,4,No,21,Travel_Rarely,6,2,3,No
+EMP1354,39,Research & Development,Laboratory Technician,4862,15,8,1,1,No,6,Travel_Rarely,1,3,3,No
+EMP1355,44,Research & Development,Research Director,10367,21,1,2,1,Yes,23,Travel_Rarely,5,3,3,No
+EMP1356,58,Research & Development,Research Director,10904,23,12,1,1,No,5,Travel_Rarely,2,2,3,No
+EMP1357,41,Finance,Finance Manager,9185,22,9,1,3,No,24,Travel_Rarely,0,1,3,No
+EMP1358,50,Finance,Accountant,5345,3,1,4,3,Yes,3,Travel_Rarely,4,3,3,No
+EMP1359,24,Research & Development,Laboratory Technician,1807,0,0,4,1,No,14,Travel_Rarely,1,5,3,No
+EMP1360,29,Human Resources,HR Manager,5274,11,11,3,1,No,20,Travel_Rarely,3,4,3,No
+EMP1361,58,IT,Software Engineer,7670,10,7,1,3,No,8,Travel_Rarely,3,4,3,No
+EMP1362,55,Sales,Sales Representative,5768,0,0,1,3,Yes,19,Travel_Rarely,4,5,4,No
+EMP1363,47,Sales,Sales Representative,5972,7,5,1,2,No,21,Travel_Rarely,0,1,4,No
+EMP1364,36,Sales,Sales Executive,4715,15,2,3,4,Yes,20,Travel_Frequently,1,4,3,No
+EMP1365,28,Human Resources,HR Executive,2968,3,2,1,4,No,12,Travel_Rarely,5,2,3,No
+EMP1366,55,Research & Development,Laboratory Technician,5786,2,1,2,4,No,24,Travel_Frequently,6,4,3,No
+EMP1367,52,Finance,Accountant,6584,19,14,4,2,Yes,22,Travel_Rarely,0,5,3,No
+EMP1368,30,Human Resources,Recruiter,1864,2,1,4,4,Yes,10,Travel_Rarely,2,5,3,No
+EMP1369,44,Research & Development,Laboratory Technician,4294,9,6,4,3,Yes,23,Travel_Rarely,6,3,3,No
+EMP1370,45,IT,IT Manager,5663,0,0,2,3,No,28,Travel_Rarely,2,5,3,No
+EMP1371,40,Finance,Accountant,5696,13,4,3,2,No,25,Travel_Rarely,3,4,3,No
+EMP1372,58,Sales,Sales Executive,7828,12,0,1,4,No,22,Travel_Rarely,6,1,3,Yes
+EMP1373,25,Research & Development,Research Scientist,1800,6,0,4,3,Yes,23,Travel_Frequently,6,2,3,Yes
+EMP1374,31,Research & Development,Research Director,5472,4,4,1,1,Yes,25,Travel_Rarely,4,5,3,No
+EMP1375,24,Sales,Sales Representative,1878,1,1,3,4,Yes,9,Non-Travel,4,5,3,Yes
+EMP1376,48,Sales,Sales Executive,5540,4,1,3,1,No,22,Travel_Rarely,4,5,3,No
+EMP1377,46,IT,Systems Analyst,4675,5,4,4,3,No,6,Travel_Rarely,1,2,3,No
+EMP1378,60,Research & Development,Research Director,9298,12,0,2,3,No,11,Travel_Rarely,6,2,3,Yes
+EMP1379,42,Research & Development,Laboratory Technician,2754,2,0,1,3,Yes,29,Travel_Rarely,0,5,3,Yes
+EMP1380,27,Finance,Financial Analyst,3665,4,2,4,1,No,9,Travel_Rarely,0,1,3,No
+EMP1381,39,Research & Development,Research Scientist,5435,18,9,3,2,No,26,Travel_Rarely,4,5,3,No
+EMP1382,24,IT,IT Manager,3871,5,5,2,4,No,13,Travel_Rarely,5,4,3,No
+EMP1383,47,Finance,Finance Manager,7791,17,11,2,1,No,7,Travel_Rarely,5,4,3,No
+EMP1384,47,Research & Development,Research Director,10844,24,3,2,3,No,3,Travel_Rarely,4,3,4,No
+EMP1385,55,Research & Development,Research Director,9341,21,12,2,4,No,17,Travel_Rarely,2,5,3,Yes
+EMP1386,34,IT,Software Engineer,4243,11,5,2,4,Yes,14,Travel_Frequently,2,4,3,Yes
+EMP1387,33,Finance,Financial Analyst,5962,13,11,2,3,No,16,Travel_Rarely,2,1,3,No
+EMP1388,23,IT,Software Engineer,2758,0,0,2,2,Yes,2,Travel_Frequently,1,3,3,Yes
+EMP1389,37,Sales,Sales Executive,5763,16,2,1,3,No,9,Non-Travel,2,5,3,No
+EMP1390,40,IT,IT Manager,6457,6,0,4,2,Yes,1,Travel_Rarely,0,1,4,Yes
+EMP1391,51,Human Resources,Recruiter,6803,19,0,1,3,Yes,10,Travel_Rarely,2,4,3,No
+EMP1392,51,Sales,Sales Executive,7097,24,14,1,3,Yes,28,Travel_Rarely,6,2,3,No
+EMP1393,26,Human Resources,Recruiter,3483,4,0,1,3,No,5,Travel_Rarely,4,3,3,No
+EMP1394,32,Human Resources,HR Manager,5806,1,1,4,1,No,21,Travel_Rarely,0,5,3,No
+EMP1395,41,Sales,Sales Executive,5596,8,6,2,4,No,1,Travel_Rarely,2,3,3,Yes
+EMP1396,34,Research & Development,Research Director,5458,6,1,2,3,Yes,17,Travel_Frequently,1,1,3,No
+EMP1397,22,IT,IT Manager,5329,4,4,2,4,No,28,Travel_Rarely,1,1,3,No
+EMP1398,54,Research & Development,Laboratory Technician,7488,25,2,1,3,No,11,Travel_Rarely,4,4,3,No
+EMP1399,50,Research & Development,Research Director,8400,15,2,2,4,Yes,6,Travel_Rarely,6,5,3,No
+EMP1400,41,Research & Development,Laboratory Technician,6078,22,8,1,4,No,18,Travel_Rarely,4,2,3,No
+EMP1401,33,Research & Development,Research Director,7178,6,2,4,4,No,9,Non-Travel,3,5,3,No
+EMP1402,54,IT,Systems Analyst,7086,11,3,1,3,No,27,Travel_Rarely,1,3,3,No
+EMP1403,22,Finance,Finance Manager,3925,4,0,2,3,No,26,Travel_Rarely,1,1,3,Yes
+EMP1404,38,Sales,Sales Executive,5779,14,9,4,1,No,20,Travel_Rarely,5,3,4,No
+EMP1405,53,IT,Software Engineer,7276,14,0,4,2,Yes,20,Travel_Rarely,4,5,3,No
+EMP1406,59,IT,IT Manager,8074,12,3,3,2,No,19,Travel_Rarely,3,2,3,No
+EMP1407,31,Research & Development,Research Scientist,3148,9,5,1,4,No,23,Travel_Rarely,4,5,3,No
+EMP1408,47,IT,Software Engineer,7639,20,7,2,3,No,14,Travel_Rarely,5,4,4,No
+EMP1409,28,Sales,Sales Manager,4766,5,4,1,2,No,30,Travel_Rarely,5,2,3,No
+EMP1410,25,IT,Software Engineer,1800,0,0,3,1,Yes,11,Travel_Frequently,0,4,3,No
+EMP1411,35,Human Resources,HR Manager,5807,1,0,2,3,Yes,1,Travel_Rarely,2,3,3,No
+EMP1412,56,Human Resources,HR Executive,5038,3,2,3,2,Yes,21,Non-Travel,0,1,3,No
+EMP1413,48,Sales,Sales Executive,7178,12,9,3,1,Yes,20,Travel_Frequently,2,5,3,No
+EMP1414,40,IT,IT Manager,5752,14,5,4,2,Yes,30,Travel_Rarely,4,2,3,No
+EMP1415,32,Sales,Sales Executive,4062,12,3,2,4,No,12,Travel_Rarely,1,3,4,No
+EMP1416,26,Sales,Sales Executive,1875,2,1,4,1,No,13,Travel_Rarely,1,4,3,No
+EMP1417,31,Sales,Sales Manager,4937,11,6,2,2,No,17,Travel_Frequently,3,1,3,No
+EMP1418,27,Finance,Finance Manager,4422,6,0,3,3,No,12,Travel_Frequently,3,4,3,No
+EMP1419,28,Sales,Sales Executive,4059,0,0,3,1,Yes,24,Travel_Rarely,4,2,4,No
+EMP1420,48,IT,IT Manager,7329,9,5,4,1,No,13,Travel_Rarely,0,3,3,No
+EMP1421,26,Human Resources,HR Manager,3592,2,0,2,4,Yes,24,Travel_Rarely,1,3,3,No
+EMP1422,22,Sales,Sales Manager,2509,4,2,4,3,No,13,Travel_Rarely,5,4,3,No
+EMP1423,42,Sales,Sales Executive,4891,23,13,2,1,Yes,7,Travel_Rarely,4,1,3,No
+EMP1424,32,Sales,Sales Manager,5542,12,6,2,1,No,30,Non-Travel,6,1,3,No
+EMP1425,39,Human Resources,HR Manager,6005,11,9,2,2,No,16,Non-Travel,5,3,3,No
+EMP1426,26,Finance,Finance Manager,4333,4,1,3,3,No,22,Non-Travel,5,1,3,No
+EMP1427,29,Sales,Sales Representative,1800,3,3,3,3,No,18,Travel_Rarely,3,2,4,No
+EMP1428,38,IT,IT Manager,6972,16,12,1,1,No,11,Travel_Rarely,6,4,4,Yes
+EMP1429,48,Sales,Sales Representative,5520,2,2,4,3,Yes,30,Travel_Frequently,2,5,3,No
+EMP1430,37,Finance,Financial Analyst,5756,5,4,4,4,No,12,Travel_Rarely,6,4,3,No
+EMP1431,42,IT,IT Manager,4235,3,2,1,1,No,30,Travel_Rarely,2,2,3,No
+EMP1432,41,Finance,Finance Manager,6044,11,6,4,1,No,13,Travel_Frequently,3,5,3,No
+EMP1433,31,Human Resources,HR Executive,2441,4,4,3,4,No,1,Travel_Rarely,4,3,3,No
+EMP1434,32,IT,Systems Analyst,3606,2,2,1,3,No,2,Travel_Rarely,2,1,3,No
+EMP1435,38,Sales,Sales Representative,3122,7,3,2,4,No,30,Travel_Frequently,1,4,3,No
+EMP1436,22,Sales,Sales Representative,3869,4,0,4,2,No,16,Travel_Rarely,6,3,3,No
+EMP1437,48,Sales,Sales Manager,7929,15,0,2,2,Yes,12,Travel_Rarely,3,2,3,No
+EMP1438,45,Research & Development,Research Director,9299,22,3,4,1,Yes,25,Travel_Frequently,6,4,3,No
+EMP1439,33,Finance,Financial Analyst,6383,14,0,2,1,Yes,19,Travel_Rarely,2,4,3,Yes
+EMP1440,35,Human Resources,Recruiter,4956,16,3,1,2,No,20,Travel_Rarely,6,2,3,No
+EMP1441,34,IT,Systems Analyst,4370,5,0,2,1,Yes,21,Travel_Frequently,4,1,3,Yes
+EMP1442,47,Sales,Sales Manager,8039,23,14,3,4,Yes,6,Travel_Rarely,5,3,3,No
+EMP1443,51,Finance,Finance Manager,7977,24,1,3,3,Yes,3,Travel_Frequently,5,1,3,No
+EMP1444,25,Sales,Sales Representative,2436,7,5,4,4,No,22,Non-Travel,1,4,3,No
+EMP1445,37,Sales,Sales Representative,6093,7,2,1,3,Yes,1,Non-Travel,5,3,4,No
+EMP1446,21,Finance,Accountant,2370,0,0,4,2,Yes,22,Travel_Rarely,6,2,4,No
+EMP1447,39,IT,IT Manager,6937,12,2,3,3,No,4,Non-Travel,4,3,4,No
+EMP1448,30,Human Resources,HR Manager,4956,12,9,1,1,Yes,8,Travel_Frequently,6,2,4,No
+EMP1449,34,Sales,Sales Executive,5580,15,14,4,4,No,22,Non-Travel,5,2,3,Yes
+EMP1450,39,Human Resources,HR Manager,5468,12,10,2,3,No,19,Travel_Rarely,4,2,4,No
+EMP1451,33,Sales,Sales Executive,1800,2,2,3,1,No,24,Travel_Rarely,3,4,4,No
+EMP1452,36,IT,Systems Analyst,4042,8,5,3,3,No,19,Travel_Frequently,6,5,3,No
+EMP1453,51,Finance,Financial Analyst,8994,19,10,1,3,No,2,Travel_Rarely,1,4,4,No
+EMP1454,53,Sales,Sales Executive,8273,15,2,1,1,Yes,26,Non-Travel,3,2,3,No
+EMP1455,21,Sales,Sales Manager,3309,1,1,3,1,Yes,7,Non-Travel,5,5,3,No
+EMP1456,36,Sales,Sales Executive,3308,6,5,2,4,Yes,5,Travel_Rarely,6,1,4,No
+EMP1457,54,IT,Systems Analyst,3974,1,0,1,2,Yes,27,Travel_Frequently,1,2,3,Yes
+EMP1458,42,Research & Development,Research Director,7470,7,2,1,3,No,6,Travel_Frequently,0,1,3,No
+EMP1459,29,Finance,Finance Manager,5426,8,5,4,1,Yes,17,Travel_Rarely,2,5,3,Yes
+EMP1460,44,Human Resources,HR Manager,7186,6,0,1,3,Yes,15,Travel_Rarely,6,1,3,Yes
+EMP1461,26,Research & Development,Research Scientist,4015,8,7,1,1,No,24,Non-Travel,3,3,4,No
+EMP1462,21,Sales,Sales Manager,3422,0,0,3,2,No,2,Travel_Rarely,0,1,4,No
+EMP1463,46,IT,IT Manager,8200,15,4,1,3,Yes,4,Travel_Rarely,0,2,3,No
+EMP1464,41,Research & Development,Laboratory Technician,4334,11,0,3,2,Yes,13,Travel_Rarely,2,4,4,No
+EMP1465,51,Research & Development,Research Scientist,7663,22,4,3,3,Yes,15,Travel_Rarely,2,5,3,No
+EMP1466,34,Human Resources,HR Executive,4303,15,12,3,1,Yes,24,Travel_Frequently,0,1,4,Yes
+EMP1467,55,Human Resources,HR Executive,7054,14,4,2,2,No,19,Non-Travel,3,1,3,No
+EMP1468,37,IT,Software Engineer,5741,12,7,4,4,No,5,Travel_Rarely,3,2,3,No
+EMP1469,50,Sales,Sales Manager,8487,18,12,3,2,No,30,Travel_Rarely,1,5,3,No
+EMP1470,25,Research & Development,Research Scientist,3355,4,0,2,1,No,14,Travel_Rarely,1,1,3,No
+EMP1471,24,Research & Development,Research Scientist,1800,1,1,1,4,No,29,Travel_Rarely,4,1,3,No
+EMP1472,52,Research & Development,Research Director,7852,11,3,2,4,No,30,Travel_Rarely,6,3,3,No
+EMP1473,54,Sales,Sales Manager,7182,6,4,1,3,Yes,2,Non-Travel,6,2,3,No
+EMP1474,58,Sales,Sales Executive,5396,12,2,1,4,Yes,16,Travel_Rarely,3,1,3,No
+EMP1475,33,Sales,Sales Representative,3609,9,1,2,4,No,13,Travel_Frequently,0,3,3,No
+EMP1476,21,Research & Development,Laboratory Technician,1800,0,0,1,3,No,15,Travel_Frequently,6,4,3,No
+EMP1477,60,Research & Development,Laboratory Technician,7374,6,5,1,3,Yes,10,Travel_Rarely,6,1,3,No
+EMP1478,45,Human Resources,Recruiter,6738,22,12,2,1,Yes,17,Travel_Rarely,1,4,3,No
+EMP1479,30,Human Resources,Recruiter,4041,4,4,3,3,Yes,15,Non-Travel,2,1,3,Yes
+EMP1480,51,Research & Development,Research Director,8297,5,4,1,2,Yes,6,Travel_Rarely,0,4,3,Yes
+EMP1481,57,Research & Development,Research Scientist,6923,19,6,2,4,No,9,Travel_Frequently,5,2,3,No
+EMP1482,32,Sales,Sales Executive,4115,10,2,1,2,No,5,Travel_Frequently,5,2,3,No
+EMP1483,51,Human Resources,HR Manager,9636,22,4,1,4,No,26,Travel_Rarely,0,1,3,Yes
+EMP1484,52,Research & Development,Research Scientist,8119,20,9,1,3,Yes,21,Travel_Rarely,4,5,3,No
+EMP1485,41,Sales,Sales Representative,6226,23,5,2,3,Yes,12,Travel_Rarely,2,3,3,No
+EMP1486,46,Research & Development,Research Scientist,4417,15,7,3,4,No,12,Travel_Rarely,3,4,4,No
+EMP1487,31,Research & Development,Research Director,4464,4,0,4,2,No,3,Travel_Frequently,1,2,3,Yes
+EMP1488,58,Sales,Sales Executive,7666,23,6,3,2,Yes,9,Travel_Rarely,5,1,3,Yes
+EMP1489,60,Research & Development,Research Scientist,4206,7,1,3,2,Yes,28,Travel_Rarely,2,1,3,No
+EMP1490,60,Research & Development,Research Scientist,7926,7,0,4,4,No,1,Travel_Rarely,5,3,3,No
+EMP1491,50,Finance,Financial Analyst,8022,22,1,2,4,No,5,Travel_Rarely,1,2,3,No
+EMP1492,22,Human Resources,HR Manager,3583,4,2,4,1,No,26,Travel_Rarely,4,4,3,No
+EMP1493,35,Human Resources,HR Manager,4621,6,2,4,2,No,16,Travel_Frequently,2,4,4,No
+EMP1494,38,Research & Development,Research Director,8865,15,1,3,2,No,1,Travel_Rarely,6,2,4,No
+EMP1495,59,Finance,Financial Analyst,7568,24,7,4,3,No,15,Travel_Rarely,3,3,3,No
+EMP1496,42,Research & Development,Laboratory Technician,5064,19,2,1,1,Yes,23,Travel_Rarely,5,2,3,No
+EMP1497,42,Research & Development,Laboratory Technician,3106,0,0,4,3,No,11,Travel_Rarely,0,4,3,Yes
+EMP1498,26,Human Resources,HR Manager,4753,5,0,3,3,No,12,Non-Travel,4,4,3,No
+EMP1499,52,Research & Development,Research Director,8564,4,0,1,1,Yes,19,Travel_Rarely,0,4,4,Yes
+EMP1500,34,Research & Development,Research Scientist,5718,14,6,1,1,No,18,Non-Travel,2,1,3,No
+EMP1501,24,Finance,Accountant,3025,0,0,3,3,No,28,Travel_Rarely,1,2,3,Yes
+EMP1502,60,IT,IT Manager,10296,26,14,2,2,Yes,8,Travel_Frequently,0,5,3,No
+EMP1503,28,IT,IT Manager,5298,1,0,2,4,No,9,Travel_Rarely,4,2,3,No
+EMP1504,21,Research & Development,Laboratory Technician,1800,1,0,2,4,No,5,Travel_Frequently,1,1,3,Yes
+EMP1505,24,Research & Development,Laboratory Technician,1800,1,0,4,4,No,20,Travel_Rarely,3,1,3,Yes
+EMP1506,39,Finance,Finance Manager,6661,17,5,2,3,No,17,Travel_Rarely,5,1,3,No
+EMP1507,25,Research & Development,Laboratory Technician,1800,3,2,1,4,No,11,Travel_Rarely,1,4,3,No
+EMP1508,54,IT,IT Manager,8466,20,4,2,1,No,21,Travel_Rarely,4,1,4,No
+EMP1509,41,Research & Development,Research Scientist,2952,1,1,1,2,No,12,Travel_Rarely,2,3,3,No
+EMP1510,33,Sales,Sales Representative,3330,7,7,3,1,No,6,Travel_Rarely,2,2,3,No
+EMP1511,21,Sales,Sales Executive,2703,3,3,4,3,No,17,Travel_Rarely,4,1,3,No
+EMP1512,40,IT,Software Engineer,8264,21,8,4,3,No,14,Travel_Rarely,4,5,3,No
+EMP1513,27,Sales,Sales Representative,1800,2,2,3,2,No,13,Travel_Rarely,4,4,4,No
+EMP1514,60,Research & Development,Research Scientist,5496,10,10,4,2,No,14,Travel_Frequently,1,5,3,No
+EMP1515,32,Research & Development,Laboratory Technician,2823,6,5,2,3,Yes,28,Non-Travel,4,5,3,No
+EMP1516,39,Sales,Sales Representative,5579,12,3,3,1,No,7,Travel_Frequently,1,5,3,No
+EMP1517,21,Research & Development,Laboratory Technician,1846,2,0,1,3,No,9,Travel_Frequently,1,4,3,No
+EMP1518,26,Finance,Finance Manager,3423,0,0,3,3,Yes,17,Travel_Frequently,6,3,4,No
+EMP1519,29,Sales,Sales Manager,6040,9,1,3,1,No,2,Travel_Rarely,0,4,3,No
+EMP1520,23,IT,Systems Analyst,3366,1,1,1,1,No,5,Travel_Rarely,2,3,3,No
+EMP1521,50,IT,Software Engineer,6158,8,5,3,2,Yes,17,Travel_Rarely,3,1,3,No
+EMP1522,58,Research & Development,Research Director,9910,22,4,3,3,Yes,16,Travel_Rarely,1,2,3,No
+EMP1523,60,Sales,Sales Executive,7818,18,5,2,2,No,20,Travel_Rarely,5,3,3,No
+EMP1524,31,Human Resources,HR Manager,4915,5,1,3,2,No,4,Travel_Rarely,3,1,3,No
+EMP1525,52,Sales,Sales Representative,7288,24,12,2,3,Yes,26,Travel_Rarely,5,5,3,No
+EMP1526,41,Research & Development,Research Scientist,4274,9,6,2,1,No,15,Travel_Rarely,2,5,3,No
+EMP1527,22,IT,Systems Analyst,3357,2,2,1,3,No,5,Travel_Rarely,6,3,3,No
+EMP1528,24,IT,Software Engineer,3125,1,0,2,1,No,10,Travel_Rarely,5,3,3,No
+EMP1529,42,Finance,Financial Analyst,5587,4,2,4,1,No,7,Travel_Frequently,2,5,3,No
+EMP1530,37,Research & Development,Laboratory Technician,5558,9,1,4,1,No,14,Travel_Rarely,6,3,3,No
+EMP1531,21,Human Resources,HR Executive,2443,2,2,3,2,No,15,Travel_Rarely,6,4,3,No
+EMP1532,58,Finance,Finance Manager,9074,21,7,3,1,No,14,Travel_Rarely,4,3,3,No
+EMP1533,50,Research & Development,Research Scientist,6641,10,6,3,4,No,14,Travel_Rarely,0,2,3,No
+EMP1534,41,Human Resources,HR Manager,8334,21,6,2,2,Yes,28,Travel_Rarely,4,4,3,No
+EMP1535,60,Sales,Sales Manager,11488,16,4,2,4,Yes,29,Travel_Rarely,4,1,3,No
+EMP1536,59,Sales,Sales Executive,5804,1,1,3,4,Yes,15,Non-Travel,2,2,3,No
+EMP1537,59,Research & Development,Research Director,11023,19,7,4,4,No,29,Travel_Rarely,1,4,3,No
+EMP1538,31,Sales,Sales Manager,5731,8,6,2,4,No,25,Travel_Rarely,3,4,4,No
+EMP1539,56,Sales,Sales Manager,7986,10,0,3,1,No,25,Travel_Rarely,5,5,3,No
+EMP1540,41,IT,Software Engineer,5432,11,3,2,2,No,7,Non-Travel,2,4,3,No
+EMP1541,50,IT,IT Manager,7540,8,7,2,3,Yes,14,Travel_Rarely,3,1,4,No
+EMP1542,55,Research & Development,Research Director,10139,16,1,2,3,No,11,Non-Travel,0,5,3,No
+EMP1543,27,IT,IT Manager,5784,5,0,1,1,No,3,Travel_Rarely,4,3,3,No
+EMP1544,38,IT,Software Engineer,5428,9,8,2,3,Yes,3,Travel_Rarely,6,1,3,No
+EMP1545,26,Sales,Sales Manager,3888,2,0,3,4,Yes,19,Travel_Rarely,5,3,3,No
+EMP1546,32,Research & Development,Research Scientist,3126,5,1,3,4,Yes,13,Travel_Rarely,3,1,3,No
+EMP1547,37,Research & Development,Laboratory Technician,3164,9,5,4,2,No,25,Travel_Frequently,0,3,3,No
+EMP1548,55,Sales,Sales Representative,7905,12,2,1,1,Yes,21,Travel_Rarely,3,3,3,No
+EMP1549,55,Finance,Accountant,5463,8,0,4,2,No,3,Travel_Rarely,6,1,3,No
+EMP1550,36,Research & Development,Laboratory Technician,5361,11,0,4,2,No,26,Travel_Rarely,0,5,3,No
+EMP1551,34,Research & Development,Research Scientist,3629,3,0,2,2,No,15,Travel_Frequently,1,3,3,No
+EMP1552,42,Sales,Sales Representative,5448,12,2,2,2,No,17,Travel_Frequently,5,5,3,No
+EMP1553,57,Sales,Sales Manager,7259,3,2,2,2,Yes,29,Travel_Rarely,3,3,3,Yes
+EMP1554,60,IT,Systems Analyst,6576,12,3,3,1,No,20,Travel_Rarely,1,3,3,No
+EMP1555,30,Sales,Sales Executive,2933,10,0,4,2,No,1,Travel_Rarely,0,5,4,No
+EMP1556,28,Sales,Sales Manager,6741,8,0,3,2,No,6,Travel_Rarely,2,2,3,No
+EMP1557,49,Research & Development,Research Scientist,6633,18,7,3,1,Yes,13,Travel_Rarely,4,5,3,No
+EMP1558,33,Research & Development,Laboratory Technician,5218,11,10,3,4,No,2,Non-Travel,5,1,3,No
+EMP1559,28,Human Resources,HR Manager,5511,0,0,1,3,No,6,Travel_Frequently,6,5,3,No
+EMP1560,22,Research & Development,Laboratory Technician,1800,1,0,3,4,Yes,24,Travel_Frequently,3,4,3,No
+EMP1561,37,Sales,Sales Manager,6996,13,0,1,3,Yes,5,Travel_Rarely,2,3,3,No
+EMP1562,36,Sales,Sales Representative,4991,15,3,4,1,Yes,6,Travel_Frequently,6,2,3,Yes
+EMP1563,43,IT,IT Manager,6374,15,7,4,4,No,16,Travel_Rarely,5,3,3,No
+EMP1564,29,Human Resources,HR Executive,3543,10,2,3,2,No,3,Travel_Rarely,1,3,4,No
+EMP1565,49,Human Resources,Recruiter,5794,7,7,2,3,No,8,Travel_Frequently,4,5,3,No
+EMP1566,48,Human Resources,HR Manager,6176,4,3,3,2,No,29,Travel_Rarely,5,5,3,No
+EMP1567,39,Finance,Financial Analyst,3733,1,0,3,2,No,19,Travel_Rarely,1,3,3,Yes
+EMP1568,28,Sales,Sales Executive,2999,6,6,3,2,No,29,Travel_Rarely,6,2,3,No
+EMP1569,41,Research & Development,Research Director,10125,15,4,3,2,Yes,11,Travel_Rarely,2,2,3,No
+EMP1570,47,Research & Development,Laboratory Technician,3424,7,1,1,3,Yes,19,Travel_Rarely,3,2,4,No
+EMP1571,35,Research & Development,Laboratory Technician,5191,14,14,1,3,No,8,Travel_Rarely,3,1,3,No
+EMP1572,31,IT,Software Engineer,4372,10,10,2,1,No,12,Travel_Rarely,4,1,4,No
+EMP1573,41,Research & Development,Laboratory Technician,4043,8,2,3,1,No,6,Travel_Rarely,6,4,3,No
+EMP1574,35,Finance,Finance Manager,5140,4,2,2,4,No,25,Travel_Rarely,2,2,3,No
+EMP1575,37,IT,Software Engineer,6231,14,2,3,3,No,6,Travel_Rarely,2,3,3,No
+EMP1576,34,Research & Development,Laboratory Technician,4952,11,7,2,4,Yes,7,Travel_Rarely,5,4,4,No
+EMP1577,33,IT,Systems Analyst,3737,2,2,4,3,No,14,Travel_Rarely,6,4,3,No
+EMP1578,49,Human Resources,Recruiter,6133,6,4,2,3,Yes,13,Travel_Rarely,6,2,3,No
+EMP1579,39,IT,Software Engineer,6502,10,6,4,4,No,10,Travel_Rarely,5,4,3,No
+EMP1580,39,Research & Development,Laboratory Technician,5510,11,8,2,3,No,11,Non-Travel,4,1,3,No
+EMP1581,47,Research & Development,Research Director,7038,4,2,2,2,Yes,9,Travel_Frequently,5,3,3,Yes
+EMP1582,35,Research & Development,Research Scientist,5530,17,12,3,3,Yes,28,Travel_Rarely,6,1,3,No
+EMP1583,25,Sales,Sales Manager,4774,3,0,2,1,No,18,Travel_Rarely,0,3,3,No
+EMP1584,55,Research & Development,Research Director,8246,10,5,1,2,No,28,Travel_Rarely,4,1,3,Yes
+EMP1585,23,IT,IT Manager,2378,0,0,2,3,No,30,Travel_Rarely,0,5,3,No
+EMP1586,43,Human Resources,HR Manager,6400,22,6,4,1,Yes,20,Travel_Rarely,4,4,3,Yes
+EMP1587,31,Sales,Sales Manager,4958,3,2,1,3,No,25,Travel_Rarely,2,2,3,No
+EMP1588,29,Research & Development,Research Director,6893,11,1,2,3,No,4,Travel_Rarely,2,4,3,No
+EMP1589,22,Sales,Sales Manager,2861,2,0,3,2,No,29,Travel_Frequently,6,2,3,No
+EMP1590,57,Sales,Sales Representative,8806,23,14,3,1,No,15,Travel_Rarely,4,3,4,No
+EMP1591,38,IT,Systems Analyst,4297,3,0,2,3,No,22,Travel_Frequently,3,1,3,No
+EMP1592,34,Research & Development,Laboratory Technician,4480,2,1,1,4,No,8,Travel_Rarely,6,3,3,No
+EMP1593,50,Research & Development,Research Scientist,7303,21,9,1,3,No,3,Travel_Frequently,0,1,3,No
+EMP1594,22,Human Resources,Recruiter,1800,4,2,2,2,No,27,Travel_Frequently,4,1,3,Yes
+EMP1595,43,Sales,Sales Manager,7712,14,0,4,3,No,14,Travel_Rarely,1,3,3,No
+EMP1596,40,Sales,Sales Representative,4208,0,0,1,2,No,5,Travel_Rarely,1,3,3,Yes
+EMP1597,43,Finance,Financial Analyst,6557,24,0,4,2,No,20,Travel_Rarely,1,2,3,No
+EMP1598,25,Human Resources,HR Manager,3027,3,1,3,2,Yes,2,Travel_Rarely,3,1,3,No
+EMP1599,59,IT,Systems Analyst,8775,25,1,1,1,Yes,14,Travel_Rarely,4,3,3,No
+EMP1600,30,Human Resources,HR Manager,4819,11,1,2,4,No,22,Travel_Rarely,5,5,3,No
+EMP1601,48,Research & Development,Research Director,10704,22,2,1,3,No,22,Travel_Frequently,3,4,3,No
+EMP1602,50,Finance,Finance Manager,8059,18,2,4,1,No,14,Travel_Rarely,6,1,3,No
+EMP1603,34,IT,IT Manager,7652,11,10,3,4,No,12,Travel_Rarely,2,5,3,No
+EMP1604,26,Finance,Finance Manager,2623,4,3,2,1,No,26,Travel_Rarely,1,3,3,Yes
+EMP1605,32,IT,IT Manager,4766,0,0,2,3,No,6,Travel_Rarely,0,3,4,No
+EMP1606,53,Finance,Accountant,7276,10,0,3,1,Yes,3,Non-Travel,0,1,3,Yes
+EMP1607,57,IT,Systems Analyst,7004,19,9,1,2,Yes,5,Travel_Rarely,3,2,4,No
+EMP1608,58,Sales,Sales Representative,7587,21,2,2,3,No,25,Travel_Rarely,2,4,3,No
+EMP1609,30,Finance,Accountant,3097,7,3,1,4,Yes,15,Travel_Rarely,5,2,4,No
+EMP1610,45,Research & Development,Research Director,8450,19,0,3,4,No,2,Travel_Rarely,0,1,3,No
+EMP1611,27,Research & Development,Laboratory Technician,2590,0,0,3,4,No,6,Travel_Rarely,1,1,3,No
+EMP1612,49,Human Resources,HR Manager,6474,12,1,2,1,No,1,Non-Travel,6,5,3,Yes
+EMP1613,37,IT,Software Engineer,5070,10,1,1,1,Yes,25,Non-Travel,0,5,3,No
+EMP1614,49,IT,IT Manager,9484,24,6,2,4,No,14,Travel_Frequently,2,1,4,No
+EMP1615,48,Research & Development,Laboratory Technician,5091,8,4,4,4,Yes,3,Travel_Frequently,1,5,3,No
+EMP1616,60,Finance,Accountant,5295,6,2,1,2,No,7,Travel_Rarely,3,5,3,No
+EMP1617,40,Finance,Accountant,5452,8,5,1,1,Yes,19,Travel_Rarely,6,2,3,No
+EMP1618,34,Research & Development,Research Scientist,3922,2,2,1,3,No,18,Travel_Rarely,1,4,3,No
+EMP1619,42,Sales,Sales Representative,4353,13,10,4,1,No,25,Travel_Rarely,2,2,3,No
+EMP1620,27,Sales,Sales Manager,3695,6,4,1,1,Yes,1,Travel_Rarely,3,2,4,No
+EMP1621,25,Finance,Accountant,2013,6,3,3,4,Yes,3,Non-Travel,5,4,3,Yes
+EMP1622,41,Research & Development,Research Scientist,6836,23,7,4,2,No,2,Travel_Rarely,6,2,3,No
+EMP1623,54,IT,Systems Analyst,5698,1,0,3,1,Yes,12,Travel_Rarely,0,2,3,Yes
+EMP1624,42,Research & Development,Research Scientist,5196,6,3,2,3,Yes,22,Travel_Rarely,3,2,4,No
+EMP1625,52,IT,Systems Analyst,5771,8,0,1,2,No,20,Travel_Rarely,5,1,3,Yes
+EMP1626,28,Research & Development,Laboratory Technician,1863,2,2,1,3,No,7,Travel_Rarely,0,5,3,No
+EMP1627,38,Finance,Financial Analyst,6597,17,5,1,4,No,20,Travel_Rarely,5,4,4,No
+EMP1628,45,Sales,Sales Manager,5727,3,3,4,1,No,20,Travel_Rarely,1,5,3,No
+EMP1629,34,Research & Development,Research Scientist,3203,0,0,1,3,No,6,Travel_Rarely,3,3,3,No
+EMP1630,21,Finance,Finance Manager,2550,3,3,1,4,No,23,Travel_Rarely,6,1,3,No
+EMP1631,23,IT,IT Manager,3852,5,2,4,2,No,13,Travel_Rarely,4,2,3,No
+EMP1632,58,IT,Software Engineer,7613,6,6,2,4,No,2,Travel_Frequently,6,2,4,No
+EMP1633,45,Sales,Sales Representative,4355,8,4,2,2,Yes,12,Travel_Rarely,4,5,4,Yes
+EMP1634,31,Research & Development,Research Scientist,4288,7,1,3,2,No,24,Travel_Frequently,1,2,3,No
+EMP1635,31,Sales,Sales Executive,1800,7,0,3,4,No,21,Travel_Rarely,4,4,4,No
+EMP1636,22,Sales,Sales Manager,3652,4,0,4,3,Yes,9,Travel_Rarely,4,1,3,No
+EMP1637,58,Human Resources,Recruiter,6311,10,10,2,4,No,23,Travel_Rarely,2,5,4,No
+EMP1638,25,Finance,Financial Analyst,4148,0,0,3,4,Yes,12,Travel_Rarely,0,4,3,No
+EMP1639,51,Finance,Financial Analyst,5263,11,5,4,3,No,14,Non-Travel,4,3,3,No
+EMP1640,30,IT,Software Engineer,4764,7,2,2,1,Yes,3,Travel_Frequently,4,2,3,Yes
+EMP1641,34,Finance,Accountant,4906,8,4,2,2,No,30,Travel_Rarely,5,2,3,No
+EMP1642,31,Finance,Financial Analyst,3306,7,2,4,4,No,26,Travel_Rarely,0,2,3,No
+EMP1643,53,Sales,Sales Executive,7264,24,13,1,3,No,6,Travel_Rarely,3,3,3,No
+EMP1644,22,Sales,Sales Representative,2482,4,4,1,2,Yes,17,Non-Travel,5,5,3,Yes
+EMP1645,35,Human Resources,HR Executive,2257,4,0,3,2,Yes,24,Travel_Rarely,6,2,3,No
+EMP1646,32,IT,IT Manager,4810,5,4,4,4,No,16,Travel_Rarely,6,4,3,No
+EMP1647,31,Sales,Sales Manager,6734,9,3,1,1,Yes,7,Travel_Rarely,1,3,3,No
+EMP1648,28,Research & Development,Research Director,6195,4,0,4,1,No,30,Travel_Rarely,1,4,3,No
+EMP1649,57,Human Resources,HR Executive,6344,11,11,4,4,No,9,Travel_Rarely,4,4,4,No
+EMP1650,36,Sales,Sales Manager,5472,3,0,4,2,Yes,11,Travel_Rarely,3,1,3,Yes
+EMP1651,37,Research & Development,Research Director,7218,5,1,2,4,No,12,Travel_Frequently,1,1,4,No
+EMP1652,36,IT,Software Engineer,6230,14,0,2,3,No,27,Non-Travel,0,5,4,No
+EMP1653,60,Human Resources,Recruiter,7534,22,7,3,4,Yes,16,Travel_Rarely,1,1,3,Yes
+EMP1654,34,Sales,Sales Representative,5911,13,8,1,3,No,22,Travel_Rarely,2,3,3,No
+EMP1655,34,IT,IT Manager,6595,5,1,4,4,Yes,28,Travel_Rarely,5,4,3,No
+EMP1656,34,Research & Development,Laboratory Technician,3875,2,0,3,4,No,28,Travel_Rarely,0,3,3,No
+EMP1657,34,IT,IT Manager,4306,2,0,2,1,No,26,Travel_Rarely,0,1,3,No
+EMP1658,24,Research & Development,Research Scientist,1800,2,2,3,4,No,28,Travel_Rarely,1,1,4,No
+EMP1659,45,Human Resources,HR Manager,7081,13,11,3,3,No,29,Travel_Rarely,6,4,4,No
+EMP1660,22,Research & Development,Research Scientist,2410,4,4,3,1,Yes,30,Travel_Rarely,6,5,3,No
+EMP1661,30,Sales,Sales Executive,2328,11,6,4,1,No,20,Travel_Rarely,3,2,3,No
+EMP1662,29,IT,Software Engineer,3705,0,0,4,2,No,4,Non-Travel,0,3,3,Yes
+EMP1663,32,Sales,Sales Representative,5154,10,6,4,1,No,4,Non-Travel,0,5,3,No
+EMP1664,51,Sales,Sales Executive,6089,8,7,3,2,No,24,Travel_Rarely,6,5,4,No
+EMP1665,44,Research & Development,Research Director,6752,5,3,3,4,No,10,Travel_Rarely,3,3,3,No
+EMP1666,60,Finance,Accountant,6400,14,6,2,2,No,25,Travel_Frequently,0,4,3,No
+EMP1667,35,Finance,Finance Manager,5200,0,0,1,1,No,29,Travel_Rarely,5,5,3,No
+EMP1668,58,IT,IT Manager,8012,9,2,2,2,No,20,Travel_Rarely,3,4,4,No
+EMP1669,22,Research & Development,Research Scientist,2524,2,1,4,1,No,23,Travel_Rarely,2,3,3,No
+EMP1670,41,Research & Development,Research Scientist,4932,6,0,1,4,No,9,Travel_Rarely,3,4,4,Yes
+EMP1671,52,Sales,Sales Representative,7568,16,2,3,1,No,14,Travel_Rarely,1,2,3,No
+EMP1672,42,Research & Development,Laboratory Technician,4041,11,8,1,4,Yes,29,Travel_Rarely,6,5,3,No
+EMP1673,58,IT,Software Engineer,8629,21,13,2,2,No,25,Travel_Rarely,5,1,4,No
+EMP1674,33,Finance,Finance Manager,4643,2,0,1,1,Yes,7,Travel_Rarely,1,2,3,Yes
+EMP1675,22,Human Resources,HR Manager,3606,0,0,3,3,No,29,Travel_Rarely,5,2,3,No
+EMP1676,51,Research & Development,Research Director,9838,14,1,4,2,Yes,15,Travel_Frequently,1,2,3,Yes
+EMP1677,23,IT,Software Engineer,3681,1,0,4,4,Yes,26,Travel_Rarely,3,3,3,No
+EMP1678,51,Research & Development,Research Director,10894,19,11,3,3,No,16,Travel_Rarely,5,4,3,No
+EMP1679,50,Sales,Sales Executive,5168,2,0,1,4,No,19,Travel_Rarely,0,5,3,No
+EMP1680,54,Research & Development,Laboratory Technician,6561,15,4,3,2,No,5,Travel_Frequently,5,3,3,No
+EMP1681,40,Sales,Sales Representative,5907,22,0,1,1,No,11,Travel_Rarely,1,4,3,No
+EMP1682,56,Sales,Sales Manager,5594,2,2,2,1,Yes,22,Travel_Frequently,4,3,3,Yes
+EMP1683,27,Sales,Sales Executive,3921,3,1,3,2,No,26,Travel_Frequently,3,1,3,Yes
+EMP1684,38,Research & Development,Research Scientist,5080,17,11,3,2,No,3,Travel_Rarely,0,4,3,No
+EMP1685,25,Human Resources,HR Manager,4895,4,3,1,4,No,3,Travel_Rarely,5,1,4,No
+EMP1686,51,Research & Development,Laboratory Technician,5721,4,0,4,2,No,21,Travel_Rarely,1,3,3,No
+EMP1687,49,Research & Development,Research Scientist,3914,5,4,2,4,Yes,14,Travel_Rarely,6,5,3,No
+EMP1688,53,IT,Software Engineer,7009,20,8,4,1,No,26,Travel_Rarely,5,4,3,No
+EMP1689,51,Finance,Financial Analyst,9087,23,9,3,2,No,3,Travel_Frequently,1,3,4,No
+EMP1690,33,Research & Development,Laboratory Technician,3776,5,1,3,4,Yes,11,Travel_Rarely,4,2,3,No
+EMP1691,23,Research & Development,Laboratory Technician,1800,2,2,3,1,No,2,Travel_Rarely,2,5,4,No
+EMP1692,58,IT,Systems Analyst,8016,21,13,4,2,No,22,Non-Travel,4,5,4,No
+EMP1693,40,Sales,Sales Manager,6843,4,2,1,4,Yes,26,Travel_Rarely,3,2,3,No
+EMP1694,24,Research & Development,Research Scientist,3041,1,0,3,3,No,5,Travel_Frequently,2,1,4,No
+EMP1695,58,IT,IT Manager,8096,20,12,1,4,Yes,10,Travel_Rarely,4,3,3,No
+EMP1696,60,Research & Development,Research Director,10351,5,5,2,3,Yes,26,Non-Travel,1,4,4,No
+EMP1697,38,Finance,Financial Analyst,6525,16,7,4,4,No,2,Travel_Frequently,6,5,4,No
+EMP1698,51,Human Resources,HR Executive,6008,13,8,4,4,Yes,29,Travel_Frequently,6,5,4,Yes
+EMP1699,22,Human Resources,HR Executive,1800,4,1,2,4,Yes,27,Travel_Rarely,1,2,3,No
+EMP1700,24,Research & Development,Research Scientist,3034,0,0,2,1,No,5,Non-Travel,5,2,3,No
+EMP1701,32,Sales,Sales Representative,4884,14,1,3,3,Yes,5,Travel_Rarely,6,5,3,No
+EMP1702,47,Research & Development,Research Scientist,3648,6,6,2,1,No,21,Non-Travel,0,2,3,No
+EMP1703,26,Sales,Sales Executive,2066,0,0,1,1,No,1,Travel_Rarely,5,3,3,No
+EMP1704,22,IT,Systems Analyst,5454,3,1,2,2,Yes,16,Travel_Rarely,6,2,3,No
+EMP1705,47,Research & Development,Research Director,8695,14,4,2,3,No,2,Travel_Frequently,1,2,3,No
+EMP1706,51,Research & Development,Research Scientist,6512,22,10,3,2,Yes,16,Travel_Rarely,4,3,3,No
+EMP1707,50,Finance,Finance Manager,5677,2,0,4,4,No,11,Travel_Frequently,5,2,3,Yes
+EMP1708,52,Finance,Accountant,6570,2,0,3,2,Yes,22,Travel_Frequently,2,3,3,No
+EMP1709,53,Research & Development,Research Director,10128,15,3,2,3,No,27,Non-Travel,1,2,3,No
+EMP1710,45,Research & Development,Research Scientist,7992,23,6,3,4,Yes,15,Travel_Rarely,2,1,3,No
+EMP1711,41,IT,Systems Analyst,5358,9,3,4,4,No,20,Travel_Rarely,2,4,3,No
+EMP1712,55,Human Resources,Recruiter,8574,21,2,2,1,Yes,19,Travel_Rarely,5,5,3,No
+EMP1713,34,Finance,Financial Analyst,4397,15,5,2,3,Yes,30,Travel_Rarely,2,3,3,No
+EMP1714,24,IT,IT Manager,4721,6,2,1,1,No,7,Travel_Rarely,2,2,3,No
+EMP1715,51,Finance,Accountant,6403,13,7,4,3,No,8,Travel_Rarely,6,4,3,No
+EMP1716,32,Sales,Sales Representative,5239,10,6,4,2,No,12,Travel_Rarely,4,3,3,No
+EMP1717,60,Research & Development,Laboratory Technician,7402,14,13,1,4,Yes,23,Travel_Rarely,6,3,3,Yes
+EMP1718,37,Sales,Sales Representative,4252,13,11,2,4,Yes,26,Non-Travel,4,3,3,No
+EMP1719,55,Human Resources,HR Executive,6813,15,4,2,4,No,9,Travel_Rarely,6,4,3,Yes
+EMP1720,22,IT,IT Manager,2416,2,2,4,4,No,4,Travel_Rarely,1,1,3,No
+EMP1721,47,Research & Development,Laboratory Technician,3446,11,6,1,2,No,19,Travel_Frequently,6,1,3,No
+EMP1722,38,Research & Development,Research Director,8458,13,2,1,3,No,18,Travel_Frequently,6,1,3,No
+EMP1723,39,Sales,Sales Representative,5013,16,5,2,1,No,12,Travel_Rarely,0,1,3,No
+EMP1724,31,IT,Systems Analyst,4295,12,9,3,3,Yes,6,Non-Travel,2,5,3,No
+EMP1725,59,Sales,Sales Representative,7998,16,12,1,1,No,26,Travel_Rarely,2,4,3,No
+EMP1726,36,Sales,Sales Manager,6397,1,0,3,3,No,26,Travel_Rarely,2,4,3,No
+EMP1727,55,Sales,Sales Manager,9036,15,2,3,4,Yes,23,Travel_Rarely,5,4,3,No
+EMP1728,38,Sales,Sales Manager,7640,6,1,4,3,No,18,Travel_Rarely,4,1,3,Yes
+EMP1729,22,Research & Development,Laboratory Technician,2347,0,0,1,4,Yes,8,Travel_Frequently,1,2,3,Yes
+EMP1730,56,Research & Development,Research Director,8312,1,0,1,1,No,13,Travel_Rarely,4,4,3,No
+EMP1731,28,Research & Development,Laboratory Technician,3371,6,4,1,4,No,3,Travel_Rarely,6,3,3,No
+EMP1732,31,Sales,Sales Representative,3088,13,7,4,3,Yes,8,Travel_Frequently,3,3,3,No
+EMP1733,55,Sales,Sales Manager,9185,13,6,3,3,No,14,Travel_Rarely,6,4,3,No
+EMP1734,56,Research & Development,Research Scientist,4304,12,8,3,4,Yes,14,Non-Travel,4,1,3,No
+EMP1735,57,Sales,Sales Manager,6722,2,2,4,3,Yes,3,Travel_Frequently,6,4,3,No
+EMP1736,38,Human Resources,HR Executive,5046,14,11,3,2,Yes,29,Travel_Rarely,6,4,4,No
+EMP1737,51,Sales,Sales Representative,4054,1,0,1,3,Yes,9,Travel_Rarely,0,3,3,No
+EMP1738,34,Research & Development,Laboratory Technician,4238,14,8,3,3,No,16,Travel_Rarely,5,3,3,No
+EMP1739,50,Research & Development,Laboratory Technician,8740,22,13,3,4,Yes,14,Travel_Frequently,1,1,3,No
+EMP1740,41,Research & Development,Laboratory Technician,7339,23,11,1,2,No,15,Travel_Rarely,5,2,3,No
+EMP1741,23,Sales,Sales Representative,1800,1,0,3,3,No,26,Travel_Rarely,5,2,3,Yes
+EMP1742,37,Sales,Sales Representative,3242,3,1,2,3,No,23,Travel_Rarely,1,5,3,No
+EMP1743,39,IT,Systems Analyst,3451,6,6,1,1,Yes,27,Non-Travel,0,1,3,No
+EMP1744,31,Sales,Sales Representative,4649,11,0,2,1,No,12,Travel_Rarely,2,2,3,No
+EMP1745,35,Research & Development,Research Director,6050,3,2,2,1,No,8,Travel_Rarely,2,1,3,No
+EMP1746,41,Research & Development,Laboratory Technician,4345,21,1,2,3,No,13,Travel_Rarely,3,2,3,No
+EMP1747,22,Research & Development,Laboratory Technician,1986,0,0,2,2,Yes,17,Travel_Rarely,0,1,4,No
+EMP1748,27,Research & Development,Research Director,5565,0,0,3,4,No,11,Travel_Rarely,0,2,3,No
+EMP1749,51,Finance,Finance Manager,7892,5,5,2,3,No,14,Travel_Rarely,3,4,3,No
+EMP1750,35,IT,Software Engineer,5259,13,0,2,1,No,5,Travel_Rarely,5,4,3,No
+EMP1751,45,Sales,Sales Manager,7385,16,0,4,1,Yes,18,Travel_Rarely,2,2,3,No
+EMP1752,43,Research & Development,Research Scientist,6713,9,3,1,2,No,22,Travel_Rarely,2,4,4,No
+EMP1753,43,Sales,Sales Executive,5851,17,3,2,4,Yes,16,Travel_Frequently,1,4,3,Yes
+EMP1754,37,Research & Development,Research Director,8148,12,6,1,1,Yes,27,Travel_Frequently,1,5,3,Yes
+EMP1755,40,Human Resources,HR Executive,4499,12,3,4,1,Yes,30,Travel_Rarely,2,5,3,Yes
+EMP1756,53,Sales,Sales Manager,8756,13,4,1,1,No,28,Travel_Rarely,1,2,4,No
+EMP1757,59,Research & Development,Research Director,7130,2,1,4,2,No,3,Non-Travel,2,3,3,No
+EMP1758,31,IT,IT Manager,4479,3,2,1,4,Yes,27,Non-Travel,1,4,4,Yes
+EMP1759,47,Sales,Sales Manager,6593,14,14,2,3,No,11,Travel_Rarely,4,2,4,No
+EMP1760,59,Research & Development,Research Director,8011,3,1,3,2,No,14,Travel_Frequently,2,3,3,Yes
+EMP1761,21,Finance,Financial Analyst,3440,1,1,4,1,Yes,13,Travel_Rarely,5,3,4,No
+EMP1762,52,Sales,Sales Manager,6339,3,2,1,2,No,9,Travel_Rarely,4,2,4,No
+EMP1763,40,Sales,Sales Executive,6321,18,2,1,3,Yes,27,Travel_Frequently,4,1,3,No
+EMP1764,59,Sales,Sales Executive,7006,2,2,4,2,Yes,20,Travel_Rarely,4,1,3,No
+EMP1765,44,IT,Software Engineer,4890,2,2,2,3,No,30,Travel_Rarely,6,4,3,Yes
+EMP1766,54,Sales,Sales Representative,7784,17,4,1,4,No,29,Travel_Rarely,1,5,3,No
+EMP1767,27,Sales,Sales Manager,4878,2,0,3,1,No,13,Travel_Rarely,6,4,3,No
+EMP1768,26,Sales,Sales Executive,2725,3,1,1,2,No,22,Travel_Frequently,1,2,3,Yes
+EMP1769,58,Sales,Sales Manager,8710,8,2,4,1,No,16,Travel_Rarely,0,1,3,No
+EMP1770,42,Human Resources,HR Manager,7826,5,3,4,3,No,15,Travel_Rarely,5,4,3,Yes
+EMP1771,43,Sales,Sales Representative,5501,19,12,4,2,No,23,Travel_Rarely,6,1,3,No
+EMP1772,27,Research & Development,Research Director,4997,6,4,2,2,No,21,Travel_Frequently,0,3,3,No
+EMP1773,30,Human Resources,HR Manager,3884,3,0,1,1,Yes,28,Travel_Rarely,4,5,3,No
+EMP1774,53,IT,Systems Analyst,8205,18,4,2,1,No,24,Travel_Rarely,3,1,3,Yes
+EMP1775,33,Sales,Sales Manager,7021,11,8,2,2,No,19,Travel_Rarely,1,3,3,No
+EMP1776,44,IT,Systems Analyst,5512,14,4,4,3,Yes,28,Travel_Frequently,3,5,3,No
+EMP1777,33,Human Resources,HR Manager,3853,9,5,3,1,No,4,Travel_Rarely,4,2,3,No
+EMP1778,31,Sales,Sales Executive,3638,13,9,4,1,No,23,Travel_Rarely,4,5,4,No
+EMP1779,27,Finance,Financial Analyst,3723,4,1,4,2,No,12,Travel_Frequently,3,5,3,No
+EMP1780,58,IT,Software Engineer,7105,10,7,3,3,No,13,Non-Travel,6,3,3,No
+EMP1781,58,Sales,Sales Executive,7087,14,5,1,2,No,24,Travel_Rarely,1,2,3,No
+EMP1782,25,IT,Software Engineer,3099,6,0,1,2,Yes,9,Travel_Rarely,4,4,3,Yes
+EMP1783,35,Research & Development,Research Director,8223,12,4,1,1,No,27,Travel_Rarely,2,4,3,No
+EMP1784,43,Human Resources,HR Executive,4314,1,0,3,3,No,15,Travel_Rarely,6,3,3,No
+EMP1785,36,IT,Systems Analyst,5073,8,0,1,4,No,11,Travel_Rarely,1,1,3,No
+EMP1786,49,Research & Development,Research Director,9588,19,13,4,4,No,10,Travel_Rarely,6,4,3,No
+EMP1787,31,Finance,Finance Manager,5367,3,2,1,3,Yes,13,Non-Travel,4,2,3,No
+EMP1788,23,Research & Development,Laboratory Technician,2978,5,0,4,3,Yes,29,Travel_Rarely,1,1,3,Yes
+EMP1789,34,Finance,Financial Analyst,4095,13,12,3,2,No,4,Travel_Frequently,5,1,3,No
+EMP1790,44,Human Resources,Recruiter,6851,22,12,1,1,Yes,16,Travel_Rarely,1,3,4,No
+EMP1791,28,Sales,Sales Executive,3177,0,0,1,2,No,26,Travel_Rarely,1,1,3,No
+EMP1792,53,Research & Development,Research Director,10405,15,0,2,3,No,15,Travel_Rarely,2,2,4,No
+EMP1793,21,Research & Development,Research Director,5204,2,0,2,3,Yes,17,Travel_Rarely,4,2,3,No
+EMP1794,23,Sales,Sales Executive,1800,3,1,2,4,No,11,Travel_Rarely,2,3,3,No
+EMP1795,41,Sales,Sales Manager,7070,20,7,3,4,No,5,Travel_Rarely,3,4,3,No
+EMP1796,41,Research & Development,Research Scientist,4228,8,6,1,1,Yes,20,Travel_Rarely,3,3,3,Yes
+EMP1797,32,Sales,Sales Executive,3936,8,3,1,1,No,28,Travel_Rarely,1,3,3,Yes
+EMP1798,31,Sales,Sales Manager,5475,9,6,3,2,No,16,Travel_Rarely,1,1,4,No
+EMP1799,23,Finance,Finance Manager,3239,4,0,4,4,Yes,13,Travel_Frequently,2,1,3,Yes
+EMP1800,47,Finance,Financial Analyst,5953,20,9,2,4,Yes,4,Travel_Frequently,1,5,3,No
+EMP1801,36,Finance,Finance Manager,3826,6,6,4,1,No,29,Travel_Rarely,6,4,3,Yes
+EMP1802,25,Research & Development,Research Director,2977,7,4,2,1,Yes,27,Non-Travel,2,1,3,Yes
+EMP1803,36,IT,IT Manager,4906,0,0,2,3,No,28,Travel_Rarely,2,3,3,No
+EMP1804,58,Human Resources,HR Executive,8898,13,6,1,3,Yes,11,Travel_Rarely,4,1,3,No
+EMP1805,31,Sales,Sales Executive,5287,8,2,2,4,Yes,19,Travel_Frequently,5,1,3,Yes
+EMP1806,56,Sales,Sales Manager,6160,1,1,2,4,No,13,Travel_Frequently,4,2,3,Yes
+EMP1807,31,Human Resources,Recruiter,3575,6,0,3,1,Yes,8,Travel_Rarely,3,4,3,Yes
+EMP1808,28,Sales,Sales Manager,3637,6,2,1,1,Yes,7,Travel_Frequently,6,4,3,No
+EMP1809,31,Research & Development,Laboratory Technician,2489,8,1,1,3,No,12,Travel_Rarely,6,4,3,No
+EMP1810,33,IT,Software Engineer,2677,1,1,2,3,No,17,Travel_Frequently,1,1,3,No
+EMP1811,25,Sales,Sales Manager,4007,2,1,1,4,No,4,Travel_Rarely,1,1,4,No
+EMP1812,44,Sales,Sales Executive,4511,6,6,1,3,Yes,22,Travel_Rarely,2,3,4,No
+EMP1813,34,IT,Systems Analyst,4812,10,7,3,3,No,14,Non-Travel,5,5,3,No
+EMP1814,49,Human Resources,Recruiter,5977,8,5,4,2,No,27,Travel_Frequently,6,4,3,No
+EMP1815,40,Sales,Sales Representative,4797,13,7,3,1,No,9,Travel_Rarely,4,4,3,No
+EMP1816,38,IT,Software Engineer,5873,15,3,1,4,No,2,Travel_Rarely,4,1,3,No
+EMP1817,39,IT,Software Engineer,5181,17,8,4,4,No,10,Travel_Rarely,1,5,3,No
+EMP1818,27,Research & Development,Laboratory Technician,1800,1,1,3,1,No,30,Travel_Rarely,4,5,3,No
+EMP1819,49,Human Resources,Recruiter,5871,24,14,3,3,No,10,Travel_Frequently,1,3,3,No
+EMP1820,25,Sales,Sales Representative,2879,1,1,1,2,No,22,Non-Travel,3,2,4,No
+EMP1821,49,Sales,Sales Manager,5956,0,0,3,2,No,26,Non-Travel,1,4,3,Yes
+EMP1822,60,Human Resources,HR Executive,3936,1,1,1,4,No,9,Travel_Rarely,0,4,4,No
+EMP1823,51,Research & Development,Research Director,7968,5,5,3,4,No,20,Travel_Rarely,6,5,3,No
+EMP1824,39,Human Resources,Recruiter,4571,19,7,1,1,Yes,7,Travel_Rarely,6,1,3,No
+EMP1825,33,IT,Systems Analyst,5179,3,1,4,2,No,11,Non-Travel,4,3,3,Yes
+EMP1826,55,Sales,Sales Manager,8379,18,2,1,4,No,9,Travel_Rarely,4,4,3,No
+EMP1827,31,Human Resources,HR Manager,5738,5,1,3,4,No,21,Travel_Rarely,1,2,3,No
+EMP1828,40,Sales,Sales Representative,4585,0,0,1,1,No,27,Non-Travel,4,5,3,No
+EMP1829,51,IT,IT Manager,6856,11,10,3,4,No,8,Travel_Rarely,5,1,3,No
+EMP1830,57,Sales,Sales Manager,7088,0,0,2,2,Yes,9,Travel_Rarely,3,1,3,No
+EMP1831,57,Human Resources,Recruiter,7098,12,1,4,3,No,25,Travel_Frequently,1,4,3,No
+EMP1832,24,Research & Development,Research Scientist,2534,3,1,3,1,No,14,Travel_Frequently,2,1,3,No
+EMP1833,56,Research & Development,Research Director,9860,14,10,2,3,No,16,Travel_Rarely,5,3,3,No
+EMP1834,25,Human Resources,HR Executive,1800,2,0,1,3,No,22,Travel_Rarely,1,2,3,Yes
+EMP1835,44,Finance,Accountant,6784,20,14,3,3,No,5,Travel_Frequently,6,4,3,No
+EMP1836,58,Research & Development,Laboratory Technician,6717,16,9,2,4,No,27,Travel_Rarely,5,1,3,Yes
+EMP1837,47,Finance,Accountant,5275,6,0,1,4,No,11,Travel_Rarely,6,2,3,No
+EMP1838,58,IT,IT Manager,9208,11,2,3,4,Yes,20,Travel_Rarely,3,5,4,No
+EMP1839,34,Research & Development,Research Director,6552,1,1,1,3,No,13,Travel_Rarely,1,2,3,No
+EMP1840,33,Research & Development,Research Scientist,4864,14,12,1,4,No,23,Travel_Rarely,0,3,3,No
+EMP1841,34,Sales,Sales Executive,4993,12,12,1,3,No,19,Travel_Rarely,3,5,3,No
+EMP1842,35,Finance,Financial Analyst,4725,5,5,2,3,No,6,Non-Travel,2,4,4,No
+EMP1843,48,Research & Development,Research Director,10581,18,1,1,3,Yes,6,Travel_Frequently,0,4,3,Yes
+EMP1844,39,Research & Development,Laboratory Technician,5089,14,10,1,4,No,27,Travel_Rarely,6,5,3,No
+EMP1845,50,Sales,Sales Manager,8343,16,1,2,1,No,16,Travel_Rarely,6,4,3,No
+EMP1846,37,IT,IT Manager,6074,1,0,1,3,No,9,Travel_Rarely,2,5,3,No
+EMP1847,33,Research & Development,Research Director,6909,14,10,1,2,Yes,5,Travel_Rarely,4,3,4,No
+EMP1848,28,Human Resources,HR Executive,2413,10,5,2,4,No,4,Travel_Rarely,2,5,3,No
+EMP1849,43,Sales,Sales Executive,7209,25,9,1,1,Yes,28,Non-Travel,3,4,3,No
+EMP1850,56,IT,Systems Analyst,8330,26,12,4,3,No,30,Travel_Rarely,4,2,3,No
+EMP1851,55,Sales,Sales Representative,6818,25,1,2,1,No,12,Travel_Rarely,2,3,3,No
+EMP1852,31,Sales,Sales Manager,6150,10,5,4,4,Yes,7,Travel_Frequently,5,2,3,No
+EMP1853,40,IT,Software Engineer,5708,1,1,4,4,No,13,Travel_Rarely,1,2,4,No
+EMP1854,49,IT,Systems Analyst,4773,12,5,4,1,No,5,Travel_Frequently,4,2,4,No
+EMP1855,45,Sales,Sales Executive,5690,6,3,3,4,No,17,Travel_Rarely,6,3,3,No
+EMP1856,23,Research & Development,Research Scientist,1800,1,0,2,2,Yes,19,Non-Travel,5,2,3,No
+EMP1857,44,Finance,Financial Analyst,6555,22,13,3,4,No,30,Non-Travel,0,4,4,No
+EMP1858,22,IT,Software Engineer,4711,4,0,1,3,Yes,10,Travel_Rarely,0,2,3,No
+EMP1859,25,Research & Development,Laboratory Technician,2345,4,4,4,1,No,6,Travel_Rarely,4,3,3,No
+EMP1860,47,Research & Development,Laboratory Technician,6536,19,12,2,1,No,5,Travel_Rarely,6,1,3,No
+EMP1861,25,Finance,Accountant,2982,1,1,1,2,Yes,12,Travel_Rarely,5,2,3,Yes
+EMP1862,34,Finance,Accountant,1835,3,1,1,1,No,19,Travel_Rarely,6,2,4,No
+EMP1863,44,Finance,Finance Manager,8495,23,7,1,1,No,2,Travel_Frequently,1,5,4,Yes
+EMP1864,47,Research & Development,Research Director,8508,12,4,1,4,No,23,Travel_Rarely,3,3,3,Yes
+EMP1865,38,Sales,Sales Representative,6356,11,3,3,4,Yes,14,Travel_Rarely,5,1,3,No
+EMP1866,24,IT,Systems Analyst,1800,3,3,1,2,Yes,24,Travel_Frequently,4,2,3,No
+EMP1867,52,IT,IT Manager,6777,5,3,4,1,No,14,Travel_Frequently,5,4,3,Yes
+EMP1868,58,Finance,Finance Manager,8809,22,10,2,1,Yes,5,Travel_Rarely,1,1,3,No
+EMP1869,56,Sales,Sales Executive,6494,20,1,3,4,No,1,Travel_Rarely,3,1,3,No
+EMP1870,50,Sales,Sales Manager,9440,18,11,2,2,Yes,17,Travel_Rarely,3,2,4,No
+EMP1871,37,Finance,Financial Analyst,4549,7,5,1,1,Yes,17,Non-Travel,6,2,3,No
+EMP1872,56,Sales,Sales Representative,6580,17,14,1,2,No,25,Travel_Rarely,1,3,3,No
+EMP1873,40,IT,Systems Analyst,5954,21,2,3,2,Yes,27,Non-Travel,2,1,3,No
+EMP1874,26,Research & Development,Laboratory Technician,2343,5,3,3,3,No,5,Travel_Rarely,0,4,3,No
+EMP1875,55,Finance,Financial Analyst,6499,13,7,2,2,Yes,10,Travel_Rarely,1,2,3,Yes
+EMP1876,33,IT,IT Manager,4062,4,2,2,4,No,7,Travel_Frequently,6,4,4,No
+EMP1877,58,Research & Development,Research Scientist,6692,14,0,4,3,No,4,Travel_Frequently,5,3,3,No
+EMP1878,35,Research & Development,Research Scientist,3497,6,3,4,4,No,1,Travel_Frequently,1,2,3,Yes
+EMP1879,55,Human Resources,Recruiter,6188,16,4,2,2,No,3,Travel_Rarely,4,3,3,No
+EMP1880,42,Human Resources,Recruiter,4050,1,1,1,3,No,16,Travel_Rarely,4,1,3,No
+EMP1881,39,Research & Development,Research Scientist,4186,4,1,2,2,No,5,Non-Travel,6,4,3,No
+EMP1882,32,Human Resources,Recruiter,3609,11,5,3,3,Yes,6,Travel_Rarely,2,2,3,No
+EMP1883,54,IT,IT Manager,7755,10,6,3,3,No,4,Travel_Rarely,6,2,3,No
+EMP1884,23,Research & Development,Research Scientist,4163,2,0,1,2,Yes,22,Travel_Rarely,2,1,3,No
+EMP1885,39,Sales,Sales Representative,6683,11,9,1,4,No,20,Travel_Rarely,5,2,3,No
+EMP1886,35,Research & Development,Laboratory Technician,2986,7,5,2,4,Yes,29,Travel_Rarely,2,2,4,No
+EMP1887,42,Research & Development,Research Scientist,5042,18,0,4,4,No,4,Travel_Rarely,4,2,3,No
+EMP1888,31,Sales,Sales Executive,2142,3,0,1,1,No,7,Travel_Rarely,2,5,3,No
+EMP1889,47,Sales,Sales Executive,7521,20,12,2,3,No,14,Travel_Rarely,5,2,3,No
+EMP1890,36,Human Resources,HR Executive,3211,3,1,1,1,No,20,Travel_Rarely,4,1,3,Yes
+EMP1891,28,Research & Development,Laboratory Technician,3141,4,4,1,1,Yes,4,Travel_Frequently,2,3,4,No
+EMP1892,28,IT,Systems Analyst,5352,6,3,3,4,Yes,7,Travel_Rarely,6,2,3,No
+EMP1893,48,Sales,Sales Executive,7001,23,5,2,1,No,13,Travel_Rarely,4,3,3,No
+EMP1894,31,Sales,Sales Executive,3731,3,1,2,4,No,1,Travel_Frequently,3,4,4,No
+EMP1895,33,Finance,Financial Analyst,4843,9,6,4,2,Yes,12,Non-Travel,0,1,3,No
+EMP1896,46,IT,IT Manager,5561,1,0,1,2,No,23,Travel_Rarely,6,3,3,No
+EMP1897,34,Sales,Sales Executive,4103,1,0,1,1,No,16,Travel_Rarely,5,1,4,No
+EMP1898,36,Sales,Sales Manager,5870,14,5,4,3,Yes,14,Travel_Rarely,4,1,3,No
+EMP1899,30,Sales,Sales Representative,4896,9,1,3,3,No,15,Non-Travel,5,1,3,No
+EMP1900,34,Research & Development,Research Director,5996,6,2,1,2,Yes,29,Travel_Frequently,4,1,4,No
+EMP1901,48,Research & Development,Laboratory Technician,5775,16,7,2,4,Yes,16,Travel_Frequently,1,2,3,No
+EMP1902,42,Sales,Sales Executive,3850,9,6,3,2,No,17,Non-Travel,1,5,3,No
+EMP1903,60,Sales,Sales Representative,5478,7,0,2,3,Yes,28,Travel_Rarely,0,5,3,No
+EMP1904,51,Research & Development,Research Scientist,5531,11,10,3,2,No,5,Travel_Rarely,0,1,4,No
+EMP1905,21,IT,Software Engineer,1800,1,1,3,3,No,3,Travel_Rarely,5,5,4,No
+EMP1906,36,Human Resources,HR Executive,4740,15,10,2,1,No,14,Travel_Rarely,5,4,4,No
+EMP1907,32,Research & Development,Research Scientist,3078,6,6,4,2,No,10,Travel_Rarely,1,3,3,Yes
+EMP1908,44,Sales,Sales Executive,5616,8,3,2,3,No,7,Travel_Frequently,4,4,3,No
+EMP1909,31,Sales,Sales Executive,3936,7,6,4,3,No,4,Travel_Rarely,0,3,4,No
+EMP1910,59,Research & Development,Research Director,9873,20,10,1,2,No,27,Travel_Rarely,2,2,3,No
+EMP1911,32,Finance,Accountant,2892,4,2,2,3,No,19,Travel_Rarely,5,3,3,No
+EMP1912,41,IT,Systems Analyst,6419,22,2,3,3,No,21,Travel_Rarely,5,4,3,No
+EMP1913,25,IT,IT Manager,5662,3,2,4,2,Yes,4,Travel_Rarely,6,4,4,No
+EMP1914,57,IT,Software Engineer,7135,17,13,1,1,No,11,Travel_Rarely,2,1,3,No
+EMP1915,57,IT,Systems Analyst,7847,25,14,4,3,No,19,Travel_Rarely,6,5,3,No
+EMP1916,52,IT,IT Manager,6794,11,5,1,4,No,16,Travel_Frequently,5,2,4,No
+EMP1917,35,Sales,Sales Representative,2141,3,0,2,4,No,21,Travel_Rarely,2,5,4,No
+EMP1918,23,Sales,Sales Representative,2726,4,3,2,3,No,21,Travel_Frequently,2,2,4,No
+EMP1919,49,Research & Development,Research Scientist,4643,0,0,2,4,Yes,13,Travel_Rarely,0,1,3,No
+EMP1920,38,Research & Development,Research Scientist,5604,9,0,4,4,No,24,Travel_Rarely,6,5,3,No
+EMP1921,60,Sales,Sales Executive,9432,26,2,3,3,No,8,Travel_Rarely,1,3,3,No
+EMP1922,48,IT,Software Engineer,8487,11,6,4,1,Yes,3,Travel_Rarely,1,2,3,No
+EMP1923,42,Human Resources,Recruiter,5684,17,14,2,3,Yes,28,Travel_Rarely,2,1,4,No
+EMP1924,60,Research & Development,Laboratory Technician,6881,14,4,4,3,Yes,1,Non-Travel,0,1,3,No
+EMP1925,53,Sales,Sales Representative,4245,5,2,2,2,No,9,Travel_Rarely,5,1,3,No
+EMP1926,39,Sales,Sales Manager,6627,6,2,3,4,No,4,Non-Travel,4,5,3,No
+EMP1927,21,Sales,Sales Executive,2137,2,1,3,4,No,7,Travel_Frequently,1,1,3,No
+EMP1928,24,IT,Software Engineer,3371,0,0,3,2,Yes,12,Travel_Frequently,1,1,4,No
+EMP1929,38,Human Resources,HR Manager,5110,8,0,3,2,No,4,Travel_Rarely,0,5,3,No
+EMP1930,43,Finance,Finance Manager,7156,10,6,2,1,No,15,Non-Travel,6,5,3,No
+EMP1931,22,Research & Development,Laboratory Technician,2540,4,2,3,1,No,28,Travel_Frequently,3,2,3,No
+EMP1932,26,Research & Development,Research Director,5315,1,0,4,2,Yes,5,Travel_Rarely,4,4,3,Yes
+EMP1933,49,Research & Development,Research Scientist,6375,22,3,2,2,Yes,28,Travel_Rarely,1,3,3,No
+EMP1934,51,Finance,Finance Manager,8785,11,9,3,2,No,13,Travel_Rarely,1,3,4,No
+EMP1935,22,Finance,Financial Analyst,4485,3,0,1,1,No,18,Travel_Rarely,3,2,3,Yes
+EMP1936,41,Sales,Sales Executive,4196,13,0,2,2,Yes,14,Non-Travel,1,4,3,No
+EMP1937,24,IT,Systems Analyst,3363,2,0,4,3,No,10,Travel_Rarely,4,5,3,Yes
+EMP1938,49,Sales,Sales Executive,4745,25,13,3,2,Yes,4,Travel_Rarely,6,4,3,No
+EMP1939,54,IT,IT Manager,8027,6,2,1,3,Yes,18,Travel_Rarely,2,5,3,No
+EMP1940,55,Sales,Sales Manager,5147,0,0,3,2,No,28,Travel_Rarely,4,1,3,No
+EMP1941,44,Sales,Sales Representative,5813,20,1,4,3,No,16,Travel_Rarely,6,4,3,No
+EMP1942,46,IT,Software Engineer,5533,16,13,1,3,No,18,Travel_Rarely,6,5,3,No
+EMP1943,58,Sales,Sales Executive,7881,24,2,1,4,No,20,Travel_Frequently,0,3,4,No
+EMP1944,45,Research & Development,Laboratory Technician,6215,12,4,2,1,No,12,Travel_Frequently,0,5,4,Yes
+EMP1945,38,Research & Development,Laboratory Technician,1800,0,0,3,4,Yes,4,Travel_Rarely,6,2,3,No
+EMP1946,51,Sales,Sales Manager,6126,0,0,2,2,No,16,Travel_Rarely,6,5,3,Yes
+EMP1947,44,Finance,Accountant,4788,11,0,4,1,No,27,Travel_Rarely,2,5,3,No
+EMP1948,54,IT,Software Engineer,7748,6,4,4,3,No,10,Travel_Rarely,3,4,3,No
+EMP1949,41,IT,Software Engineer,7319,22,10,3,1,No,27,Non-Travel,4,4,3,No
+EMP1950,55,Research & Development,Research Director,7116,3,3,2,1,No,26,Travel_Rarely,4,3,3,No
+EMP1951,22,Research & Development,Research Scientist,1931,4,1,1,4,Yes,8,Travel_Rarely,5,2,3,No
+EMP1952,22,Sales,Sales Manager,5210,1,0,4,1,Yes,18,Travel_Rarely,2,3,4,Yes
+EMP1953,24,Sales,Sales Executive,2728,0,0,4,3,No,23,Travel_Frequently,6,5,4,No
+EMP1954,43,Sales,Sales Manager,5669,7,7,2,1,No,15,Travel_Rarely,0,1,3,No
+EMP1955,49,IT,IT Manager,6365,3,3,3,1,Yes,21,Travel_Rarely,0,2,3,No
+EMP1956,29,IT,Systems Analyst,3208,4,0,4,1,Yes,28,Non-Travel,6,3,3,Yes
+EMP1957,27,Finance,Financial Analyst,2631,3,2,3,1,No,19,Non-Travel,1,2,3,Yes
+EMP1958,55,Research & Development,Research Director,7901,14,12,1,2,Yes,26,Travel_Rarely,6,4,3,No
+EMP1959,51,Research & Development,Research Scientist,5650,14,8,3,2,Yes,25,Travel_Rarely,2,2,3,No
+EMP1960,46,Research & Development,Laboratory Technician,5425,0,0,4,1,No,25,Travel_Rarely,2,4,3,No
+EMP1961,40,Research & Development,Research Director,6292,2,1,4,2,No,26,Travel_Rarely,0,1,3,No
+EMP1962,37,Research & Development,Research Director,6372,3,0,2,2,No,7,Travel_Rarely,6,2,3,No
+EMP1963,21,Sales,Sales Executive,1926,0,0,3,3,No,1,Travel_Rarely,2,4,3,No
+EMP1964,28,Sales,Sales Manager,6376,1,0,2,4,No,5,Travel_Rarely,1,3,3,No
+EMP1965,56,IT,Software Engineer,6753,8,0,3,3,No,8,Travel_Rarely,3,4,3,No
+EMP1966,34,Research & Development,Research Director,7855,9,1,1,4,Yes,21,Travel_Rarely,1,4,3,No
+EMP1967,49,IT,Systems Analyst,5242,8,8,2,1,Yes,16,Non-Travel,5,2,3,Yes
+EMP1968,49,Sales,Sales Executive,5147,8,5,2,1,No,15,Non-Travel,0,3,3,No
+EMP1969,33,Research & Development,Laboratory Technician,3756,7,6,2,4,No,1,Travel_Rarely,3,5,3,No
+EMP1970,29,Sales,Sales Executive,2553,6,2,2,2,No,21,Non-Travel,2,5,3,Yes
+EMP1971,48,Sales,Sales Manager,6902,8,8,1,4,Yes,11,Travel_Rarely,0,1,3,No
+EMP1972,24,Sales,Sales Executive,2999,1,0,3,2,No,23,Travel_Frequently,0,4,4,Yes
+EMP1973,40,Sales,Sales Executive,3920,9,9,2,1,No,4,Travel_Rarely,3,3,3,No
+EMP1974,56,IT,Systems Analyst,5525,0,0,4,4,No,9,Travel_Frequently,2,1,3,No
+EMP1975,49,Research & Development,Research Director,9393,13,0,1,3,No,2,Travel_Rarely,0,4,3,No
+EMP1976,51,Human Resources,HR Manager,8583,25,0,3,4,No,9,Travel_Rarely,0,1,3,No
+EMP1977,24,Research & Development,Laboratory Technician,3301,2,0,1,2,No,28,Travel_Frequently,5,2,3,Yes
+EMP1978,28,Research & Development,Laboratory Technician,2646,1,1,3,1,No,15,Travel_Rarely,5,4,3,No
+EMP1979,32,Research & Development,Research Director,6646,10,2,2,3,No,14,Travel_Rarely,4,5,4,No
+EMP1980,32,Sales,Sales Representative,1800,1,0,2,1,No,9,Travel_Frequently,5,3,3,No
+EMP1981,28,IT,IT Manager,4159,2,1,3,3,No,8,Travel_Rarely,0,5,3,No
+EMP1982,59,Finance,Finance Manager,7889,3,3,4,2,Yes,21,Travel_Rarely,4,5,3,Yes
+EMP1983,27,Finance,Finance Manager,6661,8,3,2,4,Yes,30,Travel_Rarely,5,3,3,Yes
+EMP1984,49,Research & Development,Research Director,10761,26,0,4,4,No,23,Non-Travel,1,1,4,No
+EMP1985,44,Sales,Sales Manager,8524,15,5,1,2,No,23,Non-Travel,3,4,3,No
+EMP1986,45,IT,Software Engineer,5532,16,4,2,4,No,15,Non-Travel,5,1,3,No
+EMP1987,29,Research & Development,Research Director,6051,7,5,2,1,Yes,3,Travel_Frequently,4,5,3,No
+EMP1988,33,Sales,Sales Manager,6874,9,7,4,1,No,22,Travel_Rarely,1,2,3,No
+EMP1989,45,Research & Development,Research Scientist,4891,14,1,1,4,No,25,Travel_Rarely,4,4,3,No
+EMP1990,32,Finance,Finance Manager,7124,14,11,2,3,No,16,Travel_Rarely,5,4,3,No
+EMP1991,48,Human Resources,HR Executive,7210,19,1,2,2,Yes,3,Travel_Rarely,0,3,3,No
+EMP1992,22,Finance,Accountant,2142,0,0,4,1,No,22,Travel_Frequently,3,5,3,No
+EMP1993,23,Finance,Finance Manager,3724,2,1,2,2,Yes,28,Travel_Rarely,3,4,4,Yes
+EMP1994,50,Sales,Sales Executive,6657,26,5,4,3,No,7,Travel_Rarely,2,5,3,No
+EMP1995,45,IT,Systems Analyst,7228,10,3,3,4,Yes,5,Travel_Frequently,0,1,3,No
+EMP1996,22,Research & Development,Research Director,5379,1,0,3,4,Yes,23,Travel_Frequently,0,3,3,Yes
+EMP1997,56,Human Resources,HR Manager,9877,23,4,4,2,Yes,10,Travel_Frequently,5,5,3,No
+EMP1998,21,Sales,Sales Manager,3458,2,2,1,2,No,22,Travel_Rarely,5,5,3,No
+EMP1999,59,IT,Software Engineer,7869,15,14,2,1,No,22,Travel_Rarely,2,3,3,No
+EMP2000,50,Research & Development,Research Director,8768,11,9,3,1,No,8,Travel_Rarely,6,1,3,No
+EMP2001,60,Sales,Sales Manager,8010,3,1,1,2,No,2,Travel_Rarely,6,2,3,No
+EMP2002,58,Research & Development,Research Director,9926,10,5,1,3,No,17,Travel_Frequently,4,3,3,No
+EMP2003,33,Sales,Sales Executive,2926,6,3,1,1,No,13,Non-Travel,4,4,3,Yes
+EMP2004,51,Sales,Sales Manager,8005,25,11,4,2,No,26,Travel_Rarely,6,5,3,No
+EMP2005,29,Human Resources,HR Manager,4781,3,2,3,3,No,11,Travel_Frequently,4,1,3,No
+EMP2006,39,Research & Development,Laboratory Technician,2283,3,1,2,4,No,8,Travel_Frequently,6,2,3,No
+EMP2007,30,IT,Systems Analyst,3339,5,2,3,4,No,26,Travel_Rarely,6,2,4,No
+EMP2008,40,Research & Development,Laboratory Technician,5677,22,5,3,2,No,23,Travel_Frequently,1,5,3,No
+EMP2009,55,Finance,Accountant,6968,13,7,4,2,Yes,19,Non-Travel,4,1,3,No
+EMP2010,38,Research & Development,Laboratory Technician,6004,7,5,4,4,No,29,Travel_Rarely,5,2,4,No
+EMP2011,24,Human Resources,HR Executive,1800,4,2,4,3,Yes,24,Non-Travel,5,2,3,No
+EMP2012,33,Human Resources,Recruiter,6137,10,8,1,2,Yes,26,Travel_Frequently,2,1,3,No
+EMP2013,52,Research & Development,Research Scientist,5455,8,7,4,3,No,24,Travel_Frequently,6,4,4,No
+EMP2014,41,IT,Software Engineer,7358,23,6,2,1,No,13,Non-Travel,3,3,3,No
+EMP2015,43,Research & Development,Laboratory Technician,4342,15,13,2,2,No,2,Non-Travel,2,3,3,No
+EMP2016,38,Sales,Sales Representative,4427,1,0,3,2,Yes,19,Travel_Rarely,1,5,3,No
+EMP2017,32,Human Resources,HR Manager,5372,6,6,3,4,No,23,Travel_Rarely,2,3,3,No
+EMP2018,44,IT,IT Manager,8490,24,4,2,1,No,30,Travel_Frequently,6,2,3,No
+EMP2019,46,Sales,Sales Executive,3581,10,6,4,4,No,21,Travel_Rarely,5,2,3,No
+EMP2020,56,Research & Development,Research Scientist,6916,15,4,1,2,No,18,Travel_Rarely,5,5,4,No
+EMP2021,45,IT,Systems Analyst,7081,16,6,1,1,Yes,18,Travel_Rarely,6,3,3,No
+EMP2022,60,Finance,Finance Manager,9277,19,5,1,3,No,4,Travel_Rarely,1,1,3,No
+EMP2023,54,IT,Systems Analyst,9037,23,10,4,3,No,1,Travel_Rarely,4,4,4,No
+EMP2024,24,Research & Development,Laboratory Technician,3220,1,0,2,1,No,2,Travel_Frequently,2,4,3,No
+EMP2025,36,Human Resources,HR Manager,5483,9,8,2,1,No,28,Travel_Rarely,5,2,3,No
+EMP2026,36,Research & Development,Research Director,8611,10,9,3,1,No,24,Travel_Rarely,2,3,3,No
+EMP2027,21,IT,Systems Analyst,2241,0,0,2,2,No,8,Travel_Rarely,5,3,3,Yes
+EMP2028,28,Research & Development,Research Director,6115,7,4,3,1,No,13,Travel_Frequently,5,1,4,No
+EMP2029,51,Finance,Finance Manager,6884,3,2,1,3,Yes,15,Travel_Frequently,5,1,3,Yes
+EMP2030,35,Research & Development,Research Scientist,4112,8,6,1,1,Yes,8,Travel_Frequently,6,4,3,Yes
+EMP2031,26,Research & Development,Research Scientist,1800,2,0,4,4,No,13,Travel_Rarely,5,4,3,No
+EMP2032,32,Finance,Finance Manager,4708,2,2,2,4,No,11,Travel_Frequently,2,4,3,No
+EMP2033,31,Research & Development,Research Scientist,2787,11,2,1,3,No,21,Travel_Rarely,3,2,3,Yes
+EMP2034,27,IT,Systems Analyst,4464,2,2,2,4,No,23,Travel_Rarely,3,3,4,No
+EMP2035,25,Research & Development,Research Scientist,3837,2,0,2,4,No,3,Travel_Rarely,0,5,3,Yes
+EMP2036,51,Human Resources,HR Manager,9862,23,11,2,1,No,14,Travel_Rarely,4,2,3,No
+EMP2037,53,Research & Development,Research Scientist,7270,23,11,2,2,No,30,Travel_Frequently,3,4,3,No
+EMP2038,40,Research & Development,Laboratory Technician,2698,0,0,3,4,No,27,Travel_Frequently,2,1,3,No
+EMP2039,45,Research & Development,Research Director,7093,7,1,1,2,No,24,Travel_Rarely,0,1,3,No
+EMP2040,57,Sales,Sales Manager,10953,19,9,2,3,No,23,Travel_Rarely,3,5,3,No
+EMP2041,54,Sales,Sales Manager,8527,21,7,2,4,No,1,Travel_Frequently,4,1,3,No
+EMP2042,22,Human Resources,HR Executive,1800,4,1,3,4,No,30,Travel_Frequently,0,4,3,Yes
+EMP2043,59,Human Resources,HR Manager,9747,14,8,4,2,No,23,Travel_Rarely,4,3,3,No
+EMP2044,23,Human Resources,HR Executive,3340,0,0,4,2,No,27,Non-Travel,1,5,3,No
+EMP2045,22,Sales,Sales Manager,5648,4,4,2,1,Yes,28,Travel_Rarely,1,3,3,No
+EMP2046,37,Research & Development,Research Director,7400,3,0,3,2,No,8,Travel_Frequently,2,4,3,Yes
+EMP2047,50,Sales,Sales Executive,5981,3,3,1,2,No,1,Travel_Rarely,2,5,3,Yes
+EMP2048,24,Finance,Accountant,2593,4,4,3,2,Yes,20,Travel_Rarely,6,5,3,No
+EMP2049,32,IT,Systems Analyst,2411,9,5,1,2,No,14,Travel_Rarely,0,4,3,No
+EMP2050,31,Sales,Sales Representative,2775,0,0,1,4,No,1,Travel_Rarely,2,1,4,No
+EMP2051,36,Human Resources,HR Manager,5929,3,2,3,4,No,9,Travel_Rarely,5,1,4,No
+EMP2052,60,Sales,Sales Executive,7108,15,5,1,3,No,30,Travel_Frequently,1,3,3,No
+EMP2053,34,Sales,Sales Representative,3332,4,0,2,1,Yes,11,Travel_Rarely,6,4,3,Yes
+EMP2054,29,Sales,Sales Representative,2612,8,5,1,2,Yes,8,Travel_Rarely,5,4,3,No
+EMP2055,25,Research & Development,Research Director,4423,3,3,3,3,No,20,Travel_Rarely,6,4,3,No
+EMP2056,28,Human Resources,Recruiter,4809,6,1,4,1,No,20,Travel_Frequently,6,1,4,No
+EMP2057,26,IT,IT Manager,6222,4,3,3,2,No,10,Travel_Rarely,0,1,3,No
+EMP2058,43,Sales,Sales Executive,4923,9,7,4,3,No,26,Travel_Rarely,3,1,3,No
+EMP2059,37,Research & Development,Research Director,7063,6,5,2,4,No,18,Non-Travel,5,3,3,No
+EMP2060,40,Finance,Accountant,4562,16,5,1,4,Yes,5,Travel_Rarely,0,4,3,No
+EMP2061,54,IT,Systems Analyst,7408,13,5,1,2,No,10,Travel_Rarely,3,1,3,No
+EMP2062,44,Human Resources,Recruiter,7409,16,6,1,2,Yes,26,Non-Travel,4,5,3,No
+EMP2063,27,Sales,Sales Manager,3369,5,5,1,2,No,3,Travel_Frequently,5,2,3,No
+EMP2064,36,Human Resources,HR Executive,3987,3,3,2,3,Yes,1,Travel_Frequently,2,4,3,No
+EMP2065,33,Research & Development,Laboratory Technician,5035,14,6,1,2,No,20,Non-Travel,6,4,3,No
+EMP2066,54,IT,IT Manager,8935,15,14,3,2,No,14,Travel_Frequently,4,1,4,No
+EMP2067,33,Research & Development,Laboratory Technician,5684,11,6,1,1,No,8,Travel_Rarely,0,5,3,No
+EMP2068,26,Human Resources,HR Executive,4912,7,3,3,2,Yes,15,Travel_Rarely,1,5,3,No
+EMP2069,50,Sales,Sales Representative,7105,24,0,2,1,No,6,Travel_Frequently,6,5,3,No
+EMP2070,38,Research & Development,Research Director,8431,14,9,3,3,No,12,Travel_Rarely,0,1,3,No
+EMP2071,24,IT,Software Engineer,3436,5,3,3,4,No,8,Non-Travel,0,2,3,No
+EMP2072,48,Human Resources,Recruiter,5176,12,12,4,4,Yes,18,Non-Travel,2,2,3,Yes
+EMP2073,29,Research & Development,Research Director,6524,8,6,2,2,No,21,Travel_Rarely,6,3,3,Yes
+EMP2074,55,IT,IT Manager,8354,8,0,2,4,No,28,Travel_Frequently,4,5,3,No
+EMP2075,54,IT,Software Engineer,8015,19,8,3,4,No,3,Travel_Rarely,1,4,3,No
+EMP2076,35,Research & Development,Research Scientist,2452,1,1,3,2,Yes,10,Travel_Rarely,2,4,3,Yes
+EMP2077,43,Research & Development,Laboratory Technician,6118,23,7,2,4,No,8,Non-Travel,6,3,3,No
+EMP2078,43,Research & Development,Laboratory Technician,4170,6,3,3,2,No,18,Travel_Frequently,1,5,4,No
+EMP2079,47,Human Resources,HR Manager,7267,17,12,2,4,Yes,16,Travel_Rarely,4,5,3,No
+EMP2080,23,Research & Development,Research Director,5072,0,0,2,2,No,27,Travel_Rarely,3,5,3,No
+EMP2081,33,Sales,Sales Manager,5346,2,1,2,2,No,28,Travel_Rarely,5,5,3,No
+EMP2082,27,IT,Software Engineer,4987,9,6,4,1,No,24,Travel_Rarely,5,4,3,No
+EMP2083,48,IT,IT Manager,7923,22,6,3,4,No,6,Non-Travel,5,1,3,No
+EMP2084,23,IT,Software Engineer,2285,1,0,1,2,Yes,2,Travel_Rarely,0,2,3,No
+EMP2085,41,IT,Systems Analyst,5844,3,2,4,4,Yes,27,Travel_Rarely,3,4,3,No
+EMP2086,50,Finance,Financial Analyst,7337,22,14,3,1,No,29,Travel_Rarely,4,2,3,No
+EMP2087,58,Finance,Accountant,8332,26,9,1,3,No,8,Travel_Frequently,2,1,4,No
+EMP2088,32,Finance,Finance Manager,4717,2,2,3,2,No,2,Travel_Rarely,4,5,3,No
+EMP2089,21,Research & Development,Laboratory Technician,3050,2,0,3,2,Yes,21,Travel_Rarely,4,3,3,No
+EMP2090,49,Research & Development,Research Director,9120,7,7,4,1,Yes,18,Non-Travel,2,5,3,No
+EMP2091,21,Sales,Sales Executive,3032,2,0,2,1,Yes,27,Travel_Rarely,0,2,3,No
+EMP2092,23,Human Resources,HR Manager,4044,2,2,3,2,No,18,Travel_Rarely,6,2,3,Yes
+EMP2093,60,Research & Development,Laboratory Technician,5065,3,1,2,2,No,23,Travel_Rarely,5,2,3,No
+EMP2094,55,Sales,Sales Manager,9483,8,8,2,4,No,24,Travel_Rarely,6,2,3,No
+EMP2095,49,Human Resources,Recruiter,6841,14,13,3,2,No,1,Travel_Rarely,2,3,3,No
+EMP2096,54,Research & Development,Laboratory Technician,6939,21,11,4,1,Yes,5,Travel_Rarely,2,2,4,No
+EMP2097,24,Sales,Sales Executive,3366,0,0,4,2,No,24,Travel_Rarely,2,5,4,No
+EMP2098,24,Finance,Accountant,2293,6,6,4,3,Yes,6,Travel_Frequently,0,2,3,No
+EMP2099,33,IT,Software Engineer,6060,10,6,3,2,No,7,Travel_Rarely,1,3,3,No
+EMP2100,21,Sales,Sales Representative,3475,3,3,3,4,No,23,Travel_Frequently,2,5,3,Yes
+EMP2101,56,Sales,Sales Executive,7171,25,2,2,2,No,7,Travel_Rarely,6,3,4,No
+EMP2102,23,Research & Development,Laboratory Technician,2514,0,0,4,3,No,5,Travel_Rarely,1,1,3,No
+EMP2103,42,Finance,Financial Analyst,5129,2,0,2,1,No,1,Travel_Rarely,3,1,3,No
+EMP2104,55,IT,Software Engineer,10383,20,8,2,1,No,15,Travel_Rarely,3,3,3,No
+EMP2105,50,Sales,Sales Executive,4462,5,4,4,4,Yes,20,Travel_Rarely,2,4,3,No
+EMP2106,30,Finance,Finance Manager,5859,1,1,3,2,Yes,22,Travel_Rarely,6,5,3,No
+EMP2107,39,Sales,Sales Manager,6476,10,5,2,2,No,28,Travel_Frequently,0,1,3,No
+EMP2108,42,Research & Development,Research Director,8008,22,7,4,3,Yes,20,Travel_Rarely,6,3,3,No
+EMP2109,51,IT,Software Engineer,7657,21,9,4,1,Yes,23,Travel_Frequently,5,2,3,No
+EMP2110,38,Sales,Sales Representative,4567,10,9,2,3,Yes,7,Travel_Rarely,2,3,3,No
+EMP2111,32,Sales,Sales Manager,3922,2,2,3,2,Yes,11,Travel_Rarely,5,3,3,Yes
+EMP2112,52,Research & Development,Laboratory Technician,6061,9,1,2,1,No,10,Travel_Rarely,3,2,4,No
+EMP2113,56,Human Resources,HR Executive,8057,18,8,3,2,No,2,Travel_Rarely,6,1,3,No
+EMP2114,40,IT,Software Engineer,4864,3,1,4,2,Yes,30,Travel_Frequently,0,1,3,No
+EMP2115,22,IT,Software Engineer,2337,2,2,3,1,No,8,Travel_Frequently,0,3,3,Yes
+EMP2116,41,Sales,Sales Manager,5366,0,0,4,3,Yes,14,Travel_Frequently,3,2,3,No
+EMP2117,56,Sales,Sales Executive,6041,8,4,3,3,Yes,11,Travel_Frequently,6,2,4,No
+EMP2118,60,Finance,Finance Manager,8191,6,6,4,2,Yes,2,Travel_Rarely,0,1,3,No
+EMP2119,37,Sales,Sales Manager,7614,13,6,2,4,No,28,Travel_Rarely,5,1,4,No
+EMP2120,27,IT,IT Manager,5450,9,6,2,3,No,7,Travel_Frequently,6,1,3,Yes
+EMP2121,43,Human Resources,Recruiter,2973,3,0,2,4,No,4,Non-Travel,3,2,3,No
+EMP2122,54,Sales,Sales Executive,6844,21,13,4,1,Yes,11,Travel_Frequently,6,1,3,No
+EMP2123,58,IT,IT Manager,9219,17,2,3,4,Yes,5,Travel_Rarely,5,2,3,No
+EMP2124,23,Sales,Sales Executive,3577,5,2,1,2,Yes,30,Travel_Rarely,1,2,3,No
+EMP2125,32,Research & Development,Research Scientist,5508,13,11,1,3,No,6,Travel_Rarely,5,2,4,No
+EMP2126,40,Research & Development,Research Scientist,5432,2,2,3,4,Yes,10,Travel_Rarely,4,1,4,No
+EMP2127,24,Research & Development,Research Scientist,2778,5,2,4,2,No,9,Non-Travel,0,1,3,No
+EMP2128,56,Human Resources,HR Executive,7537,15,7,2,2,No,1,Travel_Rarely,3,5,4,No
+EMP2129,25,Human Resources,HR Executive,1800,0,0,3,1,No,1,Travel_Rarely,4,4,4,No
+EMP2130,47,IT,Software Engineer,6047,6,0,4,3,No,16,Travel_Rarely,5,1,3,No
+EMP2131,57,IT,Systems Analyst,7527,25,14,3,4,Yes,7,Travel_Rarely,5,2,3,No
+EMP2132,48,Research & Development,Research Scientist,5919,14,0,4,2,No,3,Travel_Rarely,3,2,3,No
+EMP2133,51,Sales,Sales Executive,8412,9,0,3,1,Yes,9,Travel_Rarely,2,5,3,Yes
+EMP2134,31,Finance,Finance Manager,5283,4,2,3,2,No,9,Travel_Frequently,1,5,3,No
+EMP2135,54,IT,Software Engineer,7388,22,0,4,2,No,13,Non-Travel,0,4,4,No
+EMP2136,37,Research & Development,Research Scientist,4262,5,0,3,4,Yes,30,Travel_Rarely,4,1,3,No
+EMP2137,23,Research & Development,Research Scientist,1800,0,0,1,1,No,10,Travel_Rarely,6,3,3,Yes
+EMP2138,35,Research & Development,Research Scientist,3415,10,6,2,2,Yes,22,Travel_Rarely,0,3,3,No
+EMP2139,34,Sales,Sales Representative,6768,16,10,1,3,Yes,24,Travel_Rarely,4,4,3,Yes
+EMP2140,41,Human Resources,Recruiter,5120,4,1,3,1,No,2,Travel_Rarely,4,5,3,No
+EMP2141,31,Research & Development,Research Director,6206,3,3,1,4,No,16,Travel_Rarely,1,2,3,No
+EMP2142,39,Finance,Accountant,4307,10,6,3,4,No,14,Travel_Rarely,1,3,3,No
+EMP2143,38,IT,Software Engineer,4295,4,1,2,2,No,16,Travel_Rarely,1,2,3,No
+EMP2144,34,IT,IT Manager,7488,11,8,1,3,No,6,Travel_Rarely,4,2,3,No
+EMP2145,48,Research & Development,Research Scientist,5331,6,4,1,4,Yes,14,Travel_Rarely,2,2,3,No
+EMP2146,33,Research & Development,Laboratory Technician,1800,2,2,3,3,Yes,4,Travel_Rarely,5,4,3,No
+EMP2147,51,Finance,Accountant,7634,7,1,1,1,No,29,Travel_Rarely,2,3,3,No
+EMP2148,31,Finance,Finance Manager,6210,13,3,4,1,Yes,18,Travel_Rarely,0,4,3,No
+EMP2149,55,Research & Development,Research Scientist,8214,25,4,4,2,No,2,Travel_Rarely,0,4,3,No
+EMP2150,35,IT,Systems Analyst,5543,9,3,3,1,Yes,16,Travel_Rarely,2,2,3,No
+EMP2151,22,Sales,Sales Representative,2544,2,2,1,2,Yes,28,Travel_Rarely,2,5,3,No
+EMP2152,26,IT,Systems Analyst,4152,7,5,4,3,No,23,Non-Travel,5,1,4,Yes
+EMP2153,53,Sales,Sales Manager,6834,5,3,3,3,No,9,Travel_Rarely,3,5,4,No
+EMP2154,55,Sales,Sales Manager,7678,17,8,2,1,No,27,Travel_Frequently,1,1,3,No
+EMP2155,29,Research & Development,Laboratory Technician,3732,8,7,1,1,No,6,Travel_Rarely,1,2,3,No
+EMP2156,45,Sales,Sales Representative,7553,19,6,3,1,Yes,8,Travel_Rarely,3,5,3,No
+EMP2157,43,Sales,Sales Manager,5682,5,1,4,2,No,5,Travel_Rarely,2,4,4,No
+EMP2158,26,Sales,Sales Representative,2310,6,0,1,4,Yes,28,Travel_Frequently,4,2,3,Yes
+EMP2159,39,Research & Development,Research Scientist,6104,13,4,1,2,No,22,Non-Travel,6,5,3,No
+EMP2160,48,Finance,Accountant,6598,23,9,2,2,Yes,16,Travel_Rarely,2,1,3,No
+EMP2161,59,Sales,Sales Executive,5500,4,2,3,3,No,21,Travel_Frequently,3,4,3,No
+EMP2162,54,Human Resources,HR Executive,6439,16,6,2,1,Yes,8,Travel_Rarely,5,3,3,No
+EMP2163,24,IT,Systems Analyst,3002,5,2,2,1,No,3,Non-Travel,1,2,3,No
+EMP2164,30,Sales,Sales Manager,3384,3,3,2,1,No,26,Travel_Rarely,3,5,3,No
+EMP2165,38,Sales,Sales Manager,6455,15,14,1,3,No,29,Travel_Rarely,2,4,3,No
+EMP2166,27,IT,Software Engineer,3277,0,0,1,2,Yes,2,Travel_Rarely,4,1,3,Yes
+EMP2167,43,IT,Systems Analyst,6561,18,2,1,3,No,2,Travel_Rarely,5,1,3,No
+EMP2168,21,Research & Development,Research Scientist,3072,2,0,3,3,Yes,17,Travel_Rarely,0,1,3,No
+EMP2169,25,Finance,Finance Manager,5750,1,0,4,2,Yes,2,Travel_Rarely,1,3,4,No
+EMP2170,22,Sales,Sales Executive,3256,0,0,2,4,Yes,22,Travel_Rarely,0,3,3,Yes
+EMP2171,32,Research & Development,Research Director,7733,11,10,1,4,Yes,29,Travel_Frequently,0,4,4,No
+EMP2172,51,Finance,Finance Manager,7006,6,3,2,1,No,9,Travel_Rarely,0,4,3,No
+EMP2173,28,Sales,Sales Manager,4279,5,5,4,4,Yes,9,Travel_Rarely,4,1,4,No
+EMP2174,60,Finance,Financial Analyst,6036,1,1,1,1,No,26,Travel_Rarely,6,3,3,No
+EMP2175,31,Research & Development,Research Director,7572,13,7,2,1,No,11,Non-Travel,2,4,3,No
+EMP2176,22,Finance,Finance Manager,4665,2,0,3,3,No,8,Travel_Rarely,6,5,3,No
+EMP2177,34,Research & Development,Laboratory Technician,5321,15,5,2,1,No,3,Travel_Rarely,5,2,4,No
+EMP2178,50,Research & Development,Research Director,7706,4,0,2,2,No,26,Travel_Rarely,5,1,4,No
+EMP2179,25,Sales,Sales Manager,4803,1,1,2,1,Yes,28,Travel_Frequently,5,1,3,Yes
+EMP2180,23,Sales,Sales Executive,3470,3,1,2,2,No,3,Travel_Frequently,1,2,3,No
+EMP2181,54,Finance,Finance Manager,9367,16,4,3,4,Yes,25,Travel_Rarely,3,3,3,No
+EMP2182,44,Sales,Sales Manager,8171,21,0,3,4,Yes,5,Travel_Rarely,3,2,3,No
+EMP2183,34,Sales,Sales Executive,4010,15,11,1,1,Yes,5,Travel_Rarely,4,1,3,No
+EMP2184,51,Sales,Sales Executive,6408,22,14,1,3,No,12,Travel_Rarely,5,2,3,No
+EMP2185,54,Sales,Sales Manager,6467,3,1,2,2,No,14,Travel_Rarely,0,2,3,No
+EMP2186,35,IT,Software Engineer,4636,5,3,4,2,No,26,Travel_Frequently,4,3,3,No
+EMP2187,43,Research & Development,Laboratory Technician,7003,23,13,1,3,No,21,Travel_Frequently,5,1,4,No
+EMP2188,21,IT,IT Manager,2557,2,1,1,4,No,5,Travel_Rarely,0,4,3,No
+EMP2189,33,Sales,Sales Representative,3981,13,8,3,2,No,18,Travel_Frequently,2,3,3,No
+EMP2190,44,Human Resources,Recruiter,5929,15,6,2,1,Yes,27,Travel_Frequently,6,2,3,Yes
+EMP2191,28,Research & Development,Research Scientist,1800,0,0,1,4,No,20,Travel_Rarely,0,5,3,Yes
+EMP2192,60,Research & Development,Research Scientist,7276,12,6,1,4,No,7,Travel_Frequently,1,4,3,No
+EMP2193,59,IT,IT Manager,9463,22,7,3,2,No,4,Travel_Rarely,5,1,3,No
+EMP2194,31,IT,Systems Analyst,3534,9,7,3,3,Yes,14,Non-Travel,1,1,3,No
+EMP2195,36,IT,Software Engineer,4203,2,1,3,4,No,15,Travel_Rarely,4,1,3,No
+EMP2196,28,Sales,Sales Executive,3048,2,1,2,3,Yes,11,Travel_Rarely,6,3,3,Yes
+EMP2197,41,Sales,Sales Representative,5236,20,1,3,2,Yes,4,Travel_Rarely,3,2,3,No
+EMP2198,25,Human Resources,HR Manager,4567,7,7,4,4,Yes,4,Travel_Frequently,3,2,3,No
+EMP2199,36,Research & Development,Research Scientist,5256,14,13,2,4,No,16,Travel_Rarely,3,3,3,No
+EMP2200,43,Finance,Accountant,3434,2,0,2,3,Yes,29,Travel_Rarely,2,3,3,No
